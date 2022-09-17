@@ -5,6 +5,7 @@ from object_detection.utils import visualization_utils as viz_utils
 from object_detection.builders import model_builder
 from object_detection.utils import config_util
 
+
 # Prevent GPU complete consumption
 gpus= tf.config.list_physical_devices('GPU')
 if gpus:
@@ -14,7 +15,7 @@ if gpus:
         print("Error")
 
 # Load pipeline config and build a detection model
-configs = config_util.get_configs_from_pipeline_file(files['PIPELINE_CONFIG'])
+configs = config_util.get_configs_from_pipeline_file("files/pipeline.config")
 detection_model = model_builder.build(model_config=configs['model'], is_training=False)
 
 # Restore checkpoint
@@ -33,7 +34,8 @@ import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 
-category_index = label_map_util.create_category_index_from_labelmap(files['LABELMAP'])
+# category_index = label_map_util.create_category_index_from_labelmap(files['LABELMAP'])
+category_index = label_map_util.create_category_index_from_labelmap("files/label_map.pbtxt")
 
 import easyocr
 
