@@ -15,13 +15,13 @@ if gpus:
         print("Error")
 
 # Load pipeline config and build a detection model
-configs = config_util.get_configs_from_pipeline_file("files/pipeline.config")
+configs = config_util.get_configs_from_pipeline_file("pipeline.config")
 detection_model = model_builder.build(model_config=configs['model'], is_training=False)
 
 # Restore checkpoint
 ckpt = tf.compat.v2.train.Checkpoint(model=detection_model)
 # ckpt.restore(os.path.join(paths['CHECKPOINT_PATH'], 'ckpt-11')).expect_partial()
-ckpt.restore("files/ckpt-11.index").expect_partial()
+ckpt.restore("ckpt-11").expect_partial()
 
 @tf.function
 def detect_fn(image):
@@ -35,7 +35,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # category_index = label_map_util.create_category_index_from_labelmap(files['LABELMAP'])
-category_index = label_map_util.create_category_index_from_labelmap("files/label_map.pbtxt")
+category_index = label_map_util.create_category_index_from_labelmap("label_map.pbtxt")
 
 import easyocr
 
