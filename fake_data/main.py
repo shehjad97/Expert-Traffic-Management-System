@@ -15,23 +15,23 @@ def timestamp():
     timestamp = randomtimestamp(start_year=2022, end_year=None, text=True)
     return timestamp
 
-records = []
 
-for _ in range(500):
-    license_number_data = license_number()
-    timestamp_data = timestamp()
+def generate_fake_data():
+    records = []
 
-    record = {
-        "no": _+1,
-        "license_number": license_number_data,
-        "timestamp": timestamp_data
-    }
+    for _ in range(500):
+        license_number_data = license_number()
+        timestamp_data = timestamp()
 
-    records.append(record)
+        record = {
+            "no": _+1,
+            "license_number": license_number_data,
+            "timestamp": timestamp_data
+        }
 
-# print(records)
+        records.append(record)
 
-json_string = json.dumps(records, indent=4)
+    json_string = json.dumps(records, indent=4)
 
-with open('json_data.json', 'w') as outfile:
-    outfile.write(json_string)
+    with open('json_data.json', 'w') as outfile:
+        outfile.write(json_string)

@@ -83,14 +83,31 @@ def ocr_it(image, detections, detection_threshold, region_threshold):
 import csv
 import uuid
 
-def save_results(text, region, csv_filename, folder_path):
-    img_name = '{}.jpg'.format(uuid.uuid1())
+# def save_results(text, region, csv_filename, folder_path):
+#     img_name = '{}.jpg'.format(uuid.uuid1())
     
-    cv2.imwrite(os.path.join(folder_path, img_name), region)
+#     cv2.imwrite(os.path.join(folder_path, img_name), region)
     
-    with open(csv_filename, mode='a', newline='') as f:
-        csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-        csv_writer.writerow([img_name, text])
+#     with open(csv_filename, mode='a', newline='') as f:
+#         csv_writer = csv.writer(f, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+#         csv_writer.writerow([img_name, text])
+
+import json
+
+def save_json(license_number_data):
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+    
+    record = {
+        "license_number": license_number_data
+    }
+
+    records.append(record)
+
+    json_string = json.dumps(records, indent=4)
+
+    with open('json_data.json', 'w') as outfile:
+        outfile.write(json_string)
 
 cap = cv2.VideoCapture(0)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
@@ -128,7 +145,8 @@ def webcam():
 
         try: 
             text, region = ocr_it(image_np_with_detections, detections, detection_threshold, region_threshold)
-            save_results(text, region, 'realtimeresults.csv', 'Detection_Images')
+            # save_results(text, region, 'realtimeresults.csv', 'Detection_Images')
+            save_json(text)
         except:
             pass
 
