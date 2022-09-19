@@ -1,14 +1,30 @@
-import tkinter as tk
-import matplotlib
-
-matplotlib.use('TkAgg')
-
-from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (
     FigureCanvasTkAgg,
     NavigationToolbar2Tk
 )
+from matplotlib.figure import Figure
+import tkinter as tk
+import matplotlib
+import pandas as pd
+import json
 
+matplotlib.use('TkAgg')
+
+def get_month_count(month_str):
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+    
+    months = []
+
+    for record in records:
+        month = record['timestamp'][3:5]
+        months.append(month)
+
+    months_counts = pd.Series(months).value_counts()
+    if months_counts.get(month_str) == None:
+        return 0
+    else:
+        return months_counts.get(month_str)
 
 class App(tk.Tk):
     def __init__(self):
@@ -18,11 +34,18 @@ class App(tk.Tk):
 
         # prepare data
         data = {
-            'Python': 11.27,
-            'C': 11.16,
-            'Java': 10.46,
-            'C++': 7.5,
-            'C#': 5.26
+            'Jan': get_month_count('01'),
+            'Feb': get_month_count('02'),
+            'Mar': get_month_count('03'),
+            'Apr': get_month_count('04'),
+            'May': get_month_count('05'),
+            'Jun': get_month_count('06'),
+            'Jul': get_month_count('07'),
+            'Aug': get_month_count('08'),
+            'Sep': get_month_count('09'),
+            'Oct': get_month_count('10'),
+            'Nov': get_month_count('11'),
+            'Dec': get_month_count('12'),
         }
         languages = data.keys()
         popularity = data.values()

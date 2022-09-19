@@ -15,7 +15,8 @@ style = ttk.Style()
 style.theme_use('clam')
 
 # Add a Treeview widget
-tree = ttk.Treeview(win, column=("Serial", "License Number", "Timestamp"), show='headings', height=15)
+tree = ttk.Treeview(win, column=("Serial", "License Number",
+                                 "Timestamp"), show='headings', height=15)
 tree.column("# 1", anchor=CENTER)
 tree.heading("# 1", text="Serial")
 tree.column("# 2", anchor=CENTER)
@@ -24,11 +25,12 @@ tree.column("# 3", anchor=CENTER)
 tree.heading("# 3", text="Timestamp")
 
 with open('json_data.json', 'r') as openfile:
-        records = json.load(openfile)
+    records = json.load(openfile)
 
 for record in records:
     # print(record['timestamp'])
-    tree.insert('', 'end', text="1", values=(record['no'], record['license_number'], record['timestamp']))
+    tree.insert('', 'end', text="1", values=(
+        record['no'], record['license_number'], record['timestamp']))
 
 # # Insert the data in Treeview widget
 # tree.insert('', 'end', text="1", values=('Amit', 'Kumar', '17701'))
