@@ -30,7 +30,7 @@ class App(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title('Tkinter Matplotlib Demo')
+        self.title('Traffic Density')
 
         # prepare data
         data = {
@@ -64,8 +64,9 @@ class App(tk.Tk):
 
         # create the barchart
         axes.bar(languages, popularity)
-        axes.set_title('Top 5 Programming Languages')
-        axes.set_ylabel('Popularity')
+        axes.set_title('Monthly Traffic Data')
+        axes.set_ylabel('(Number of Vehicles)')
+        axes.set_xlabel('(Months)')
 
         figure_canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=1)
 
