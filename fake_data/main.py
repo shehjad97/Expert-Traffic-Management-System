@@ -19,7 +19,7 @@ def timestamp():
 def generate_fake_data():
     records = []
 
-    for _ in range(500):
+    for _ in range(100):
         license_number_data = license_number()
         timestamp_data = timestamp()
 
