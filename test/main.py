@@ -15,5 +15,9 @@ def save_json(license_number_data):
     with open('json_data.json', 'w') as outfile:
         outfile.write(json_string)
 
+from datetime import datetime
 
-save_json("hello")
+def timestamp():
+    dateTimeObj = datetime.now()
+    timestampStr = dateTimeObj.strftime("%d-%m-%Y %H:%M:%S")
+    print(timestampStr)

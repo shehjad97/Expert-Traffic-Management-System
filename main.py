@@ -93,13 +93,22 @@ import uuid
 #         csv_writer.writerow([img_name, text])
 
 import json
+from datetime import datetime
+
+def generate_timestamp():
+    dateTimeObj = datetime.now()
+    timestampStr = dateTimeObj.strftime("%d-%m-%Y %H:%M:%S")
+    return timestampStr
 
 def save_json(license_number_data):
     with open('json_data.json', 'r') as openfile:
         records = json.load(openfile)
     
+    timestamp = generate_timestamp()
+    
     record = {
-        "license_number": license_number_data
+        "license_number": license_number_data,
+        "timestamp": timestamp
     }
 
     records.append(record)
