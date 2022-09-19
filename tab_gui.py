@@ -35,6 +35,7 @@ total_columns = len(employee_list[0])
 
 # create root window
 gui = Tk()
+gui.title("ETMS-Expert Traffic Management System")
 gui.geometry("780x648")
 table = Table(gui)
 gui.mainloop()
