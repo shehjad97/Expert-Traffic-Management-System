@@ -146,7 +146,7 @@ def webcam():
         try: 
             text, region = ocr_it(image_np_with_detections, detections, detection_threshold, region_threshold)
             # save_results(text, region, 'realtimeresults.csv', 'Detection_Images')
-            save_json(text)
+            save_json(text[0])
         except:
             pass
 
