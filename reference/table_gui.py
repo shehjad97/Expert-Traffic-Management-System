@@ -8,7 +8,8 @@ import json
 win = Tk()
 
 # Set the size of the tkinter window
-win.geometry("700x350")
+win.geometry("800x350")
+win.title("ETMS-Expert Traffic Management System")
 
 # Create an object of Style widget
 style = ttk.Style()
