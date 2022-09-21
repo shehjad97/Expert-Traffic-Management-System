@@ -1,6 +1,6 @@
 import tkinter as tk					
 from tkinter import ttk
-from main import webcam
+# from main import webcam
 
 root = tk.Tk()
 root.geometry("1200x1200")
@@ -17,8 +17,8 @@ tabControl.add(tab3, text ='Chart')
 tabControl.pack(expand = 1, fill ="both")
 
 def button_clicked():
-    # print('Button clicked')
-    webcam()
+    print('Button clicked')
+    # webcam()
 
 button = tk.Button(tab1, text='Click Me', command=button_clicked)
 button.pack()
