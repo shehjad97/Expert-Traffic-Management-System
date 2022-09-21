@@ -15,10 +15,14 @@ style.theme_use('clam')
 # Labels
 ttk.Label(root, text="Expert Traffic Management System").pack()
 
+def exit():
+    root.destroy()
+
 # Buttons
 ttk.Button(root, text="Start Detection", command=anpr).pack()
 ttk.Button(root, text="Data", command=table).pack()
 ttk.Button(root, text="Chart", command=chart).pack()
+ttk.Button(root, text="Exit", command=exit).pack()
 
 # Mainloop
 root.mainloop()
