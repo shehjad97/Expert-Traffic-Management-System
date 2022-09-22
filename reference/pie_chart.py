@@ -7,7 +7,7 @@ fig = matplotlib.figure.Figure(figsize=(5, 5))
 ax = fig.add_subplot(111)
 
 ax.pie([13, 8, 17, 14, 7, 18, 13, 10])
-ax.legend(["DHA01 (13%)", "DHA02 (8%)", "DHA03 (17%)", "DHA04 (14%)", "DHA05 (7%)", "DHA06 (18%)", "DHA07 (13%)", "DHA08 (10%)"], loc='upper center', bbox_to_anchor=(0.5, 1.05), ncol=3, fancybox=True, shadow=True)
+ax.legend(["DHA01 (13%)", "DHA02 (8%)", "DHA03 (17%)", "DHA04 (14%)", "DHA05 (7%)", "DHA06 (18%)", "DHA07 (13%)", "DHA08 (10%)"], loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=3, fancybox=True, shadow=True)
 
 circle = matplotlib.patches.Circle((0, 0), 0.0, color='white')
 ax.add_artist(circle)
