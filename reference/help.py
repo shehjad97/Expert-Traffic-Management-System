@@ -6,8 +6,7 @@ from tkinter import ttk
 root = tk.Tk()
 root.title('ETMS - Expert Traffic Manangement System')
 root.geometry("650x550")
-style = ttk.Style()
-style.theme_use('clam')
+
 
 parent = ttk.Frame(root)
 
