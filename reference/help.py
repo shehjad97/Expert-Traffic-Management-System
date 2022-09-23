@@ -11,9 +11,13 @@ root.geometry("650x550")
 parent = ttk.Frame(root)
 
 label_texts = """1. Click Start Detection To Run The System
+
 2. Click Vehicle Data To Show the Table of Detected Vehicle
+
 3. Click Yearly Data Chart To Show The Chart
+
 4. Click Monthly Data Chart To Show The Chart
+
 5. Click Cam Data Chart To Show The Chart
 """
 
