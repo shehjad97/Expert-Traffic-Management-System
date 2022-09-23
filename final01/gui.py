@@ -12,18 +12,21 @@ root.geometry("650x550")
 style = ttk.Style()
 style.theme_use('clam')
 
+parent = ttk.Frame(root)
+
 # Labels
-ttk.Label(root, text="Expert Traffic Management System",font=("Arial", 16)).pack(pady=25)
+ttk.Label(parent, text="Expert Traffic Management System",font=("Arial", 16)).pack(pady=25)
 
 # Buttons
-tk.Button(root, text="Start Detection",font="sans 10 bold",bg="#ddd",width=12, command=anpr).pack(ipadx=21,pady=5)
-tk.Button(root, text="Vehicle Data",font="sans 10 bold",bg="#ddd",width=12, command=table).pack(ipadx=21,pady=5)
-tk.Button(root, text="Yearly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
-tk.Button(root, text="Monthly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
-tk.Button(root, text="Cam Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
-tk.Button(root, text="Help",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
-tk.Button(root, text="Exit",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Start Detection",font="sans 10 bold",bg="#ddd",width=12, command=anpr).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Vehicle Data",font="sans 10 bold",bg="#ddd",width=12, command=table).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Yearly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Monthly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Cam Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=chart).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Help",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Exit",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
 
+parent.pack(expand=1)
 
 # Mainloop
 root.mainloop()
