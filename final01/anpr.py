@@ -55,8 +55,6 @@ def filter_text(region, ocr_result, region_threshold):
 
 region_threshold = 0.6
 
-from utils import notify
-
 def ocr_it(image, detections, detection_threshold, region_threshold):
     
     # Scores, boxes and classes above threhold
@@ -80,7 +78,6 @@ def ocr_it(image, detections, detection_threshold, region_threshold):
         plt.imshow(cv2.cvtColor(region, cv2.COLOR_BGR2RGB))
         plt.show()
         print(text)
-        notify(text)
         return text, region
 
 import csv
