@@ -18,17 +18,17 @@ class Table(tk.Tk):
 
         # Add a Treeview widget
         tree = ttk.Treeview(self, column=("Serial", "License Number", "Owner's NID", "License Validity", "Cam", "Timestamp"), show='headings', height=15)
-        tree.column("# 1", anchor="center")
+        tree.column("# 1", minwidth=0, width=70, anchor="center")
         tree.heading("# 1", text="Serial")
-        tree.column("# 2", anchor="center")
+        tree.column("# 2", minwidth=0, width=110, anchor="center")
         tree.heading("# 2", text="License Number")
-        tree.column("# 3", anchor="center")
+        tree.column("# 3", minwidth=0, width=120, anchor="center")
         tree.heading("# 3", text="Owner's NID")
-        tree.column("# 4", anchor="center")
+        tree.column("# 4", minwidth=0, width=120, anchor="center")
         tree.heading("# 4", text="License Validity")
-        tree.column("# 5", anchor="center")
+        tree.column("# 5", minwidth=0, width=70, anchor="center")
         tree.heading("# 5", text="Cam")
-        tree.column("# 6", anchor="center")
+        tree.column("# 6", minwidth=0, width=160, anchor="center")
         tree.heading("# 6", text="Timestamp")
 
         with open('json_data.json', 'r') as openfile:
