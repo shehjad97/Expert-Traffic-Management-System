@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # Import tk functions
-from components import table, yearly_chart, monthly_chart, pie_chart, help, anpr
+from components import latest_table, table, yearly_chart, monthly_chart, pie_chart, help, anpr
 
 # Root Initialization
 root = tk.Tk()
@@ -17,7 +17,8 @@ ttk.Label(parent, text="Expert Traffic Management System",font=("Arial", 16)).pa
 
 # Buttons
 tk.Button(parent, text="Start Detection",font="sans 10 bold",bg="#ddd",width=12, command=anpr).pack(ipadx=21,pady=5)
-tk.Button(parent, text="Vehicle Data",font="sans 10 bold",bg="#ddd",width=12, command=table).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Latest Data",font="sans 10 bold",bg="#ddd",width=12, command=latest_table).pack(ipadx=21,pady=5)
+tk.Button(parent, text="All Data",font="sans 10 bold",bg="#ddd",width=12, command=table).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Yearly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=yearly_chart).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Monthly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=monthly_chart).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Cam Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=pie_chart).pack(ipadx=21,pady=5)

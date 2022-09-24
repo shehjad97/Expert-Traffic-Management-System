@@ -119,8 +119,6 @@ def save_json(license_number_data):
         outfile.write(json_string)
 
 cap = cv2.VideoCapture(0)
-# url = "http://192.168.0.103:8080/video"
-# cap.open(url)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 

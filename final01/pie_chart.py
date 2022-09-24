@@ -7,7 +7,7 @@ class PieChart(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title('Traffic Density')
+        self.title('Traffic Distribution Based on Cameras')
 
         fig = matplotlib.figure.Figure(figsize=(5, 5))
         ax = fig.add_subplot(111)

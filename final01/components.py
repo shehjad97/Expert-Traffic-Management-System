@@ -1,3 +1,4 @@
+from latest_table import LatestTable
 from table import Table
 from yearly_chart import YearlyChart
 from monthly_chart import MonthlyChart
@@ -8,6 +9,9 @@ from help import Help
 def anpr():
     # webcam()
     print("Webcam disabled")
+
+def latest_table():
+    LatestTable()
 
 def table():
     Table()

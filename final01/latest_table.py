@@ -4,12 +4,12 @@ from tkinter import ttk
 
 import json
 
-class Table(tk.Tk):
+class LatestTable(tk.Tk):
     def __init__(self):
         super().__init__()
 
         # Set the size of the tkinter window
-        self.title("All Vehicle Data")
+        self.title("Latest Vehicle Data")
         self.geometry("800x350")
 
         # Create an object of Style widget
@@ -30,13 +30,13 @@ class Table(tk.Tk):
         with open('json_data.json', 'r') as openfile:
             records = json.load(openfile)
 
+        records = records[-10:][::-1]
+
         for record in records:
             tree.insert('', 'end', text="1", values=(record['no'], record['license_number'], record['camera'], record['timestamp']))
 
         tree.pack()
 
-        # self.mainloop()
-
 if __name__ == '__main__':
-    app = Table()
+    app = LatestTable()
     app.mainloop()

@@ -30,7 +30,7 @@ class MonthlyChart(tk.Tk):
     def __init__(self):
         super().__init__()
 
-        self.title('Traffic Density')
+        self.title('Monthly Data Chart')
 
         # prepare data
         data = {

@@ -11,7 +11,6 @@ class Help(tk.Tk):
 
         self.geometry("650x550")
 
-
         parent = ttk.Frame(self)
 
         label_texts = """1. Click Start Detection To Run The System
