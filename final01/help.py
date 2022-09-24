@@ -1,6 +1,7 @@
 # Imports
-import tkinter as tk					
+import tkinter as tk
 from tkinter import ttk
+
 
 class Help(tk.Tk):
     def __init__(self):
@@ -25,13 +26,16 @@ class Help(tk.Tk):
         """
 
         # Labels
-        ttk.Label(parent, text="Help",font=("Arial", 18)).pack(pady=25)
-        ttk.Label(parent, text=label_texts,font=("Arial", 12)).pack(padx=(50,0),pady=5)
+        ttk.Label(parent, text="Help", font=("Arial", 18)).pack(pady=25)
+        ttk.Label(parent, text=label_texts, font=(
+            "Arial", 12)).pack(padx=(50, 0), pady=5)
 
         # Buttons
-        tk.Button(parent, text="Back",font="sans 10 bold",bg="#ddd",width=12, command=self.destroy).pack(pady=15)
+        tk.Button(parent, text="Back", font="sans 10 bold", bg="#ddd",
+                  width=12, command=self.destroy).pack(pady=15)
 
         parent.pack(expand=1)
+
 
 if __name__ == '__main__':
     app = Help()

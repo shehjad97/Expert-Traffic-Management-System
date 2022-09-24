@@ -1,3002 +1,4002 @@
 [
     {
         "no": 1,
-        "license_number": "HAI18281",
-        "camera": "DHA5",
-        "timestamp": "24-04-2022 08:52:20"
+        "license_number": "ADH24172",
+        "nid": "1650845812",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "07-05-2022 21:32:25"
     },
     {
         "no": 2,
-        "license_number": "COU83012",
-        "camera": "DHA9",
-        "timestamp": "27-01-2022 08:10:15"
+        "license_number": "IWH89407",
+        "nid": "7369757338",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "28-02-2022 14:18:24"
     },
     {
         "no": 3,
-        "license_number": "BHC10197",
-        "camera": "DHA2",
-        "timestamp": "16-04-2022 14:15:45"
+        "license_number": "OCZ72912",
+        "nid": "2152881801",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "07-06-2022 23:32:58"
     },
     {
         "no": 4,
-        "license_number": "GWG50065",
-        "camera": "DHA4",
-        "timestamp": "14-08-2022 02:52:17"
+        "license_number": "KDB38482",
+        "nid": "4574655134",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "31-08-2022 20:43:42"
     },
     {
         "no": 5,
-        "license_number": "IVW48290",
-        "camera": "DHA1",
-        "timestamp": "03-09-2022 10:19:07"
+        "license_number": "WAT04445",
+        "nid": "7506269123",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "10-09-2022 15:50:33"
     },
     {
         "no": 6,
-        "license_number": "ZDG12160",
-        "camera": "DHA0",
-        "timestamp": "11-04-2022 21:59:11"
+        "license_number": "MFC62304",
+        "nid": "8376197349",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "17-02-2022 21:31:43"
     },
     {
         "no": 7,
-        "license_number": "IXI74380",
-        "camera": "DHA4",
-        "timestamp": "05-01-2022 19:42:44"
+        "license_number": "KAB14998",
+        "nid": "7072232793",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "02-02-2022 18:17:59"
     },
     {
         "no": 8,
-        "license_number": "DVH31654",
+        "license_number": "JBL96410",
+        "nid": "7281199341",
+        "license_validity": true,
         "camera": "DHA1",
-        "timestamp": "10-06-2022 23:00:30"
+        "timestamp": "11-01-2022 10:24:04"
     },
     {
         "no": 9,
-        "license_number": "UIW71261",
+        "license_number": "EKU89763",
+        "nid": "6795627379",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "06-09-2022 23:19:31"
+        "timestamp": "15-07-2022 09:33:26"
     },
     {
         "no": 10,
-        "license_number": "DHH12225",
-        "camera": "DHA5",
-        "timestamp": "28-05-2022 09:53:43"
+        "license_number": "ZVI05220",
+        "nid": "9880426411",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "03-06-2022 20:58:34"
     },
     {
         "no": 11,
-        "license_number": "OEZ71020",
-        "camera": "DHA9",
-        "timestamp": "20-02-2022 13:07:32"
+        "license_number": "XQP45258",
+        "nid": "5732123649",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "03-05-2022 13:01:10"
     },
     {
         "no": 12,
-        "license_number": "VZE32988",
-        "camera": "DHA7",
-        "timestamp": "02-08-2022 23:58:53"
+        "license_number": "FKF42420",
+        "nid": "7007174693",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "11-01-2022 03:06:46"
     },
     {
         "no": 13,
-        "license_number": "CSL12502",
-        "camera": "DHA6",
-        "timestamp": "29-04-2022 16:08:19"
+        "license_number": "EQE13125",
+        "nid": "9241869888",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "14-05-2022 17:20:34"
     },
     {
         "no": 14,
-        "license_number": "KPO79362",
-        "camera": "DHA1",
-        "timestamp": "11-01-2022 17:14:35"
+        "license_number": "YAF87910",
+        "nid": "5683494086",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "02-04-2022 04:54:07"
     },
     {
         "no": 15,
-        "license_number": "JJV26340",
+        "license_number": "FEF64160",
+        "nid": "9769577858",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "18-05-2022 06:52:56"
+        "timestamp": "09-05-2022 06:19:45"
     },
     {
         "no": 16,
-        "license_number": "WNH20243",
-        "camera": "DHA5",
-        "timestamp": "04-08-2022 23:49:59"
+        "license_number": "MAC07769",
+        "nid": "1270172834",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "22-06-2022 17:35:24"
     },
     {
         "no": 17,
-        "license_number": "PKH20770",
-        "camera": "DHA7",
-        "timestamp": "29-06-2022 17:21:33"
+        "license_number": "SZV26831",
+        "nid": "3243658892",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "13-02-2022 00:26:14"
     },
     {
         "no": 18,
-        "license_number": "LHS64420",
+        "license_number": "WEQ46442",
+        "nid": "7127009906",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "27-03-2022 03:25:31"
+        "timestamp": "05-03-2022 05:42:34"
     },
     {
         "no": 19,
-        "license_number": "ZCV28007",
+        "license_number": "HUJ31265",
+        "nid": "2211294527",
+        "license_validity": true,
         "camera": "DHA7",
-        "timestamp": "04-02-2022 05:49:48"
+        "timestamp": "15-09-2022 17:31:10"
     },
     {
         "no": 20,
-        "license_number": "RQD10882",
-        "camera": "DHA7",
-        "timestamp": "03-05-2022 04:34:47"
+        "license_number": "ADD41938",
+        "nid": "1230851925",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "18-09-2022 04:07:06"
     },
     {
         "no": 21,
-        "license_number": "SCJ30236",
-        "camera": "DHA1",
-        "timestamp": "28-08-2022 10:30:28"
+        "license_number": "JNH99006",
+        "nid": "8501854309",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "25-01-2022 10:09:33"
     },
     {
         "no": 22,
-        "license_number": "MSS00350",
-        "camera": "DHA1",
-        "timestamp": "04-08-2022 04:14:02"
+        "license_number": "XJV58031",
+        "nid": "9618233309",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "28-03-2022 19:13:15"
     },
     {
         "no": 23,
-        "license_number": "AOT04467",
-        "camera": "DHA4",
-        "timestamp": "04-04-2022 16:08:26"
+        "license_number": "CTI82078",
+        "nid": "0854630713",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "09-07-2022 20:34:52"
     },
     {
         "no": 24,
-        "license_number": "NQA02638",
-        "camera": "DHA6",
-        "timestamp": "13-05-2022 17:50:31"
+        "license_number": "BZP13749",
+        "nid": "4839304262",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "28-01-2022 17:17:14"
     },
     {
         "no": 25,
-        "license_number": "UUH23142",
-        "camera": "DHA6",
-        "timestamp": "20-05-2022 03:45:44"
+        "license_number": "HFE82747",
+        "nid": "7559678309",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "05-02-2022 05:35:46"
     },
     {
         "no": 26,
-        "license_number": "CXL47685",
-        "camera": "DHA2",
-        "timestamp": "04-07-2022 00:47:45"
+        "license_number": "YQL99118",
+        "nid": "1653574801",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "28-03-2022 22:26:17"
     },
     {
         "no": 27,
-        "license_number": "VOC91597",
-        "camera": "DHA3",
-        "timestamp": "17-09-2022 11:54:01"
+        "license_number": "ETG61105",
+        "nid": "5887718737",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "03-02-2022 08:20:49"
     },
     {
         "no": 28,
-        "license_number": "BZQ09840",
-        "camera": "DHA1",
-        "timestamp": "16-05-2022 20:06:27"
+        "license_number": "ZOT09344",
+        "nid": "2727214375",
+        "license_validity": false,
+        "camera": "DHA0",
+        "timestamp": "05-05-2022 20:26:47"
     },
     {
         "no": 29,
-        "license_number": "NWB49712",
-        "camera": "DHA9",
-        "timestamp": "17-07-2022 02:15:27"
+        "license_number": "RFT80842",
+        "nid": "3544159610",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "29-01-2022 19:39:09"
     },
     {
         "no": 30,
-        "license_number": "PPA26179",
-        "camera": "DHA4",
-        "timestamp": "13-02-2022 07:07:55"
+        "license_number": "BWH03361",
+        "nid": "6622351523",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "01-04-2022 16:18:16"
     },
     {
         "no": 31,
-        "license_number": "SWY90330",
-        "camera": "DHA3",
-        "timestamp": "09-04-2022 05:46:00"
+        "license_number": "FAK49070",
+        "nid": "7659109181",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "20-06-2022 19:57:53"
     },
     {
         "no": 32,
-        "license_number": "TSR10145",
-        "camera": "DHA0",
-        "timestamp": "23-07-2022 05:10:51"
+        "license_number": "WBU19249",
+        "nid": "5851315499",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "04-05-2022 10:41:26"
     },
     {
         "no": 33,
-        "license_number": "IXP19382",
-        "camera": "DHA8",
-        "timestamp": "29-05-2022 08:12:06"
+        "license_number": "YWG94775",
+        "nid": "3130787730",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "13-01-2022 23:39:31"
     },
     {
         "no": 34,
-        "license_number": "EXD83487",
-        "camera": "DHA6",
-        "timestamp": "30-06-2022 03:24:39"
+        "license_number": "EXS66907",
+        "nid": "4437264279",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "28-06-2022 12:02:36"
     },
     {
         "no": 35,
-        "license_number": "LFC39198",
-        "camera": "DHA8",
-        "timestamp": "28-06-2022 16:13:45"
+        "license_number": "MRT26577",
+        "nid": "9822182963",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "07-02-2022 14:09:36"
     },
     {
         "no": 36,
-        "license_number": "AXS50784",
-        "camera": "DHA9",
-        "timestamp": "11-03-2022 22:03:55"
+        "license_number": "LTI98537",
+        "nid": "1114763748",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "09-03-2022 11:17:51"
     },
     {
         "no": 37,
-        "license_number": "ADO36321",
-        "camera": "DHA8",
-        "timestamp": "24-04-2022 21:37:18"
+        "license_number": "XXD72028",
+        "nid": "1956456891",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "23-01-2022 17:54:28"
     },
     {
         "no": 38,
-        "license_number": "UTC37770",
-        "camera": "DHA3",
-        "timestamp": "09-06-2022 15:21:15"
+        "license_number": "RWK00785",
+        "nid": "7487285433",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "01-09-2022 18:31:25"
     },
     {
         "no": 39,
-        "license_number": "ULE19321",
-        "camera": "DHA6",
-        "timestamp": "05-04-2022 07:22:49"
+        "license_number": "NZE03700",
+        "nid": "5558133085",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "25-04-2022 15:10:03"
     },
     {
         "no": 40,
-        "license_number": "ZBY53648",
-        "camera": "DHA9",
-        "timestamp": "20-06-2022 11:59:31"
+        "license_number": "XGD58087",
+        "nid": "0128872031",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "13-08-2022 18:42:55"
     },
     {
         "no": 41,
-        "license_number": "JBW16518",
-        "camera": "DHA2",
-        "timestamp": "31-05-2022 11:24:47"
+        "license_number": "RTN40809",
+        "nid": "2346027945",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "29-05-2022 11:40:50"
     },
     {
         "no": 42,
-        "license_number": "DKF60349",
-        "camera": "DHA6",
-        "timestamp": "03-07-2022 13:10:44"
+        "license_number": "GLH50630",
+        "nid": "8097396055",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "15-05-2022 05:06:23"
     },
     {
         "no": 43,
-        "license_number": "DWC77616",
-        "camera": "DHA2",
-        "timestamp": "22-04-2022 02:21:01"
+        "license_number": "GEQ99951",
+        "nid": "2134417051",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "03-07-2022 01:10:32"
     },
     {
         "no": 44,
-        "license_number": "UKP07781",
-        "camera": "DHA7",
-        "timestamp": "22-08-2022 18:57:13"
+        "license_number": "RRM34846",
+        "nid": "2669787236",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "19-02-2022 07:01:40"
     },
     {
         "no": 45,
-        "license_number": "OEM36626",
-        "camera": "DHA4",
-        "timestamp": "18-02-2022 16:33:53"
+        "license_number": "LBD11824",
+        "nid": "7714915251",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "27-03-2022 05:55:42"
     },
     {
         "no": 46,
-        "license_number": "QCI19994",
-        "camera": "DHA1",
-        "timestamp": "27-04-2022 11:00:59"
+        "license_number": "JPA89183",
+        "nid": "3423561116",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "06-01-2022 04:38:28"
     },
     {
         "no": 47,
-        "license_number": "FYV51019",
-        "camera": "DHA4",
-        "timestamp": "16-02-2022 02:38:27"
+        "license_number": "OXR37393",
+        "nid": "6947407066",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "30-04-2022 10:43:17"
     },
     {
         "no": 48,
-        "license_number": "LDO18228",
-        "camera": "DHA6",
-        "timestamp": "24-04-2022 23:03:17"
+        "license_number": "FOO05118",
+        "nid": "2740662390",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "04-05-2022 05:26:04"
     },
     {
         "no": 49,
-        "license_number": "BPL11757",
-        "camera": "DHA8",
-        "timestamp": "29-05-2022 02:22:31"
+        "license_number": "NHS14494",
+        "nid": "4384645679",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "13-05-2022 10:57:37"
     },
     {
         "no": 50,
-        "license_number": "XQE96691",
-        "camera": "DHA5",
-        "timestamp": "23-07-2022 22:47:53"
+        "license_number": "IXK07946",
+        "nid": "2577426510",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "07-09-2022 18:21:48"
     },
     {
         "no": 51,
-        "license_number": "HZA39717",
-        "camera": "DHA9",
-        "timestamp": "23-08-2022 07:46:37"
+        "license_number": "BBZ46181",
+        "nid": "5436049111",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "01-06-2022 08:50:22"
     },
     {
         "no": 52,
-        "license_number": "JRV91856",
+        "license_number": "QHX37609",
+        "nid": "9290806215",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "31-07-2022 11:55:47"
+        "timestamp": "30-08-2022 07:02:29"
     },
     {
         "no": 53,
-        "license_number": "RFT75978",
-        "camera": "DHA9",
-        "timestamp": "02-02-2022 05:02:12"
+        "license_number": "HFB47342",
+        "nid": "9651786434",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "31-05-2022 09:46:42"
     },
     {
         "no": 54,
-        "license_number": "GNW23019",
-        "camera": "DHA1",
-        "timestamp": "17-07-2022 09:56:06"
+        "license_number": "HLE78861",
+        "nid": "6898997970",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "29-05-2022 02:06:18"
     },
     {
         "no": 55,
-        "license_number": "IVW37620",
-        "camera": "DHA6",
-        "timestamp": "19-06-2022 20:42:22"
+        "license_number": "NLA37343",
+        "nid": "2421072720",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "07-04-2022 07:19:49"
     },
     {
         "no": 56,
-        "license_number": "MSF15809",
+        "license_number": "HCC47993",
+        "nid": "8668456117",
+        "license_validity": true,
         "camera": "DHA7",
-        "timestamp": "10-03-2022 10:42:08"
+        "timestamp": "10-04-2022 17:02:34"
     },
     {
         "no": 57,
-        "license_number": "JSZ22404",
-        "camera": "DHA2",
-        "timestamp": "11-06-2022 09:39:46"
+        "license_number": "KKO75462",
+        "nid": "5239731403",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "26-05-2022 18:44:30"
     },
     {
         "no": 58,
-        "license_number": "YOM58911",
-        "camera": "DHA5",
-        "timestamp": "29-05-2022 19:46:45"
+        "license_number": "TYJ17457",
+        "nid": "9610646884",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "18-04-2022 18:26:49"
     },
     {
         "no": 59,
-        "license_number": "JFZ46580",
-        "camera": "DHA9",
-        "timestamp": "02-04-2022 20:45:33"
+        "license_number": "SDT99763",
+        "nid": "2419226747",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "12-05-2022 12:00:01"
     },
     {
         "no": 60,
-        "license_number": "NDI61676",
-        "camera": "DHA9",
-        "timestamp": "22-04-2022 04:30:58"
+        "license_number": "NMM81811",
+        "nid": "9993059969",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "01-07-2022 16:54:00"
     },
     {
         "no": 61,
-        "license_number": "QJY81272",
-        "camera": "DHA7",
-        "timestamp": "04-03-2022 16:06:33"
+        "license_number": "NPC69351",
+        "nid": "6340081596",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "12-06-2022 06:47:11"
     },
     {
         "no": 62,
-        "license_number": "NOO02513",
-        "camera": "DHA0",
-        "timestamp": "07-02-2022 20:36:48"
+        "license_number": "FPS94087",
+        "nid": "0273337104",
+        "license_validity": false,
+        "camera": "DHA7",
+        "timestamp": "24-03-2022 23:49:43"
     },
     {
         "no": 63,
-        "license_number": "TMW22637",
-        "camera": "DHA1",
-        "timestamp": "05-06-2022 18:24:27"
+        "license_number": "EVA62034",
+        "nid": "1513686288",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "20-07-2022 00:17:31"
     },
     {
         "no": 64,
-        "license_number": "XIA81224",
-        "camera": "DHA9",
-        "timestamp": "31-05-2022 07:14:57"
+        "license_number": "EFD75963",
+        "nid": "6553546051",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "31-03-2022 06:16:34"
     },
     {
         "no": 65,
-        "license_number": "WJN50498",
+        "license_number": "FQN83065",
+        "nid": "7972690843",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "18-07-2022 20:23:52"
+        "timestamp": "08-03-2022 00:36:52"
     },
     {
         "no": 66,
-        "license_number": "JNG37727",
-        "camera": "DHA3",
-        "timestamp": "13-05-2022 19:19:16"
+        "license_number": "LGX59360",
+        "nid": "5812472980",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "17-08-2022 19:44:25"
     },
     {
         "no": 67,
-        "license_number": "ARD16811",
-        "camera": "DHA0",
-        "timestamp": "24-05-2022 20:20:05"
+        "license_number": "KMQ70430",
+        "nid": "7104241950",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "02-05-2022 00:07:11"
     },
     {
         "no": 68,
-        "license_number": "HID81235",
-        "camera": "DHA3",
-        "timestamp": "09-02-2022 04:45:47"
+        "license_number": "YRR21811",
+        "nid": "6675576951",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "19-07-2022 03:53:57"
     },
     {
         "no": 69,
-        "license_number": "GWG07732",
-        "camera": "DHA8",
-        "timestamp": "24-04-2022 12:28:46"
+        "license_number": "FUN77560",
+        "nid": "4477646427",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "16-05-2022 14:59:54"
     },
     {
         "no": 70,
-        "license_number": "BMB52762",
-        "camera": "DHA1",
-        "timestamp": "22-02-2022 07:13:23"
+        "license_number": "CAF65685",
+        "nid": "9921194592",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "30-03-2022 06:23:28"
     },
     {
         "no": 71,
-        "license_number": "XZZ19943",
-        "camera": "DHA6",
-        "timestamp": "18-09-2022 02:15:32"
+        "license_number": "IAJ76603",
+        "nid": "5627768242",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "14-06-2022 20:29:45"
     },
     {
         "no": 72,
-        "license_number": "ROE39680",
-        "camera": "DHA5",
-        "timestamp": "22-02-2022 07:46:21"
+        "license_number": "DXZ88166",
+        "nid": "0774365060",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "26-06-2022 18:08:52"
     },
     {
         "no": 73,
-        "license_number": "QOD21568",
-        "camera": "DHA2",
-        "timestamp": "07-05-2022 16:28:18"
+        "license_number": "CQV36579",
+        "nid": "0129094261",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "25-04-2022 20:54:23"
     },
     {
         "no": 74,
-        "license_number": "ZYI16997",
-        "camera": "DHA4",
-        "timestamp": "22-06-2022 14:30:42"
+        "license_number": "HHX92508",
+        "nid": "4279291093",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "18-08-2022 17:02:40"
     },
     {
         "no": 75,
-        "license_number": "AZP29792",
+        "license_number": "PFO48382",
+        "nid": "9055785217",
+        "license_validity": false,
         "camera": "DHA4",
-        "timestamp": "20-05-2022 05:15:52"
+        "timestamp": "17-05-2022 20:47:52"
     },
     {
         "no": 76,
-        "license_number": "GDW77167",
-        "camera": "DHA3",
-        "timestamp": "13-09-2022 04:59:28"
+        "license_number": "ZVB78600",
+        "nid": "3602586694",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "26-05-2022 08:53:41"
     },
     {
         "no": 77,
-        "license_number": "KHV08477",
-        "camera": "DHA7",
-        "timestamp": "14-08-2022 02:47:33"
+        "license_number": "OOZ34953",
+        "nid": "2516866256",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "27-08-2022 07:22:16"
     },
     {
         "no": 78,
-        "license_number": "MDL06436",
-        "camera": "DHA1",
-        "timestamp": "23-08-2022 17:36:24"
+        "license_number": "CYT53275",
+        "nid": "2988699144",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "15-04-2022 02:13:26"
     },
     {
         "no": 79,
-        "license_number": "CRC86336",
-        "camera": "DHA9",
-        "timestamp": "06-08-2022 15:41:48"
+        "license_number": "IUW18966",
+        "nid": "7981569046",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "10-08-2022 14:58:52"
     },
     {
         "no": 80,
-        "license_number": "OZD00164",
-        "camera": "DHA4",
-        "timestamp": "14-08-2022 00:25:03"
+        "license_number": "XZL82012",
+        "nid": "0125237668",
+        "license_validity": false,
+        "camera": "DHA7",
+        "timestamp": "29-08-2022 10:12:00"
     },
     {
         "no": 81,
-        "license_number": "YDQ51400",
-        "camera": "DHA5",
-        "timestamp": "26-03-2022 02:17:30"
+        "license_number": "ECF65338",
+        "nid": "6463467593",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "03-05-2022 17:27:00"
     },
     {
         "no": 82,
-        "license_number": "KNJ98014",
-        "camera": "DHA3",
-        "timestamp": "13-01-2022 07:55:18"
+        "license_number": "OLD30065",
+        "nid": "3975046905",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "30-01-2022 08:10:23"
     },
     {
         "no": 83,
-        "license_number": "BNN00615",
-        "camera": "DHA7",
-        "timestamp": "13-01-2022 09:07:17"
+        "license_number": "VWT56898",
+        "nid": "9422108325",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "23-09-2022 21:29:44"
     },
     {
         "no": 84,
-        "license_number": "MDD06710",
-        "camera": "DHA0",
-        "timestamp": "24-03-2022 13:50:00"
+        "license_number": "WJA28230",
+        "nid": "9975219695",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "22-05-2022 19:03:16"
     },
     {
         "no": 85,
-        "license_number": "VLH84066",
-        "camera": "DHA3",
-        "timestamp": "19-02-2022 11:00:41"
+        "license_number": "TIR20719",
+        "nid": "6427160359",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "04-06-2022 00:33:50"
     },
     {
         "no": 86,
-        "license_number": "PYY24492",
-        "camera": "DHA8",
-        "timestamp": "27-03-2022 09:14:26"
+        "license_number": "YSI30233",
+        "nid": "6888552993",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "26-03-2022 12:15:30"
     },
     {
         "no": 87,
-        "license_number": "YCC27609",
-        "camera": "DHA0",
-        "timestamp": "08-05-2022 14:45:34"
+        "license_number": "QEI94825",
+        "nid": "0142156926",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "25-07-2022 05:50:18"
     },
     {
         "no": 88,
-        "license_number": "MCH55474",
+        "license_number": "LUI12844",
+        "nid": "9306015405",
+        "license_validity": true,
         "camera": "DHA2",
-        "timestamp": "10-03-2022 15:12:41"
+        "timestamp": "20-02-2022 06:45:28"
     },
     {
         "no": 89,
-        "license_number": "OQF34362",
-        "camera": "DHA8",
-        "timestamp": "30-08-2022 10:28:36"
+        "license_number": "CYM06728",
+        "nid": "8324026507",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "11-08-2022 15:11:12"
     },
     {
         "no": 90,
-        "license_number": "YKF75981",
-        "camera": "DHA0",
-        "timestamp": "05-03-2022 23:58:09"
+        "license_number": "IGT97286",
+        "nid": "1067717884",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "20-06-2022 11:52:29"
     },
     {
         "no": 91,
-        "license_number": "FQJ34979",
+        "license_number": "ABE19578",
+        "nid": "2845706902",
+        "license_validity": false,
         "camera": "DHA4",
-        "timestamp": "18-08-2022 15:49:34"
+        "timestamp": "10-04-2022 04:22:46"
     },
     {
         "no": 92,
-        "license_number": "MJK82194",
-        "camera": "DHA4",
-        "timestamp": "19-04-2022 02:06:02"
+        "license_number": "FGL24386",
+        "nid": "6303368959",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "09-02-2022 00:29:24"
     },
     {
         "no": 93,
-        "license_number": "JQN30810",
-        "camera": "DHA0",
-        "timestamp": "23-07-2022 12:23:29"
+        "license_number": "VIF91481",
+        "nid": "0593598266",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "06-06-2022 05:22:40"
     },
     {
         "no": 94,
-        "license_number": "CHC31892",
-        "camera": "DHA6",
-        "timestamp": "29-07-2022 23:51:26"
+        "license_number": "DLR68392",
+        "nid": "8878531572",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "14-07-2022 20:37:28"
     },
     {
         "no": 95,
-        "license_number": "KGP02561",
-        "camera": "DHA3",
-        "timestamp": "07-03-2022 10:01:23"
+        "license_number": "TSJ16615",
+        "nid": "9897442503",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "15-02-2022 12:23:25"
     },
     {
         "no": 96,
-        "license_number": "OJA69241",
-        "camera": "DHA9",
-        "timestamp": "19-02-2022 05:32:41"
+        "license_number": "FJT25134",
+        "nid": "5618963531",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "01-04-2022 10:03:00"
     },
     {
         "no": 97,
-        "license_number": "IXB94730",
-        "camera": "DHA7",
-        "timestamp": "29-08-2022 13:42:07"
+        "license_number": "ICC67277",
+        "nid": "6766544223",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "01-05-2022 19:36:38"
     },
     {
         "no": 98,
-        "license_number": "RRH04171",
-        "camera": "DHA2",
-        "timestamp": "25-03-2022 02:30:27"
+        "license_number": "TKS78682",
+        "nid": "9375816410",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "18-02-2022 16:17:00"
     },
     {
         "no": 99,
-        "license_number": "DZA04223",
-        "camera": "DHA1",
-        "timestamp": "18-09-2022 14:40:17"
+        "license_number": "SQT91584",
+        "nid": "5786673590",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "21-09-2022 17:03:47"
     },
     {
         "no": 100,
-        "license_number": "ZVL94268",
-        "camera": "DHA9",
-        "timestamp": "19-06-2022 00:26:30"
+        "license_number": "ZUQ04974",
+        "nid": "3317718400",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "25-06-2022 21:17:30"
     },
     {
         "no": 101,
-        "license_number": "SAC03248",
-        "camera": "DHA7",
-        "timestamp": "25-05-2022 05:12:57"
+        "license_number": "MYK00626",
+        "nid": "5461929056",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "07-01-2022 06:29:56"
     },
     {
         "no": 102,
-        "license_number": "UXG41509",
-        "camera": "DHA4",
-        "timestamp": "28-06-2022 20:47:50"
+        "license_number": "QRT90955",
+        "nid": "6879952205",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "10-08-2022 00:23:00"
     },
     {
         "no": 103,
-        "license_number": "SOF47824",
+        "license_number": "SZH91668",
+        "nid": "2263845229",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "09-06-2022 21:11:49"
+        "timestamp": "29-01-2022 00:32:18"
     },
     {
         "no": 104,
-        "license_number": "FVR78837",
-        "camera": "DHA2",
-        "timestamp": "03-07-2022 08:22:31"
+        "license_number": "PES57622",
+        "nid": "3281871133",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "27-05-2022 18:35:32"
     },
     {
         "no": 105,
-        "license_number": "FPG33769",
-        "camera": "DHA4",
-        "timestamp": "23-01-2022 09:25:23"
+        "license_number": "LPY09040",
+        "nid": "5079452686",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "28-02-2022 03:17:41"
     },
     {
         "no": 106,
-        "license_number": "WOG26542",
-        "camera": "DHA7",
-        "timestamp": "13-03-2022 22:46:32"
+        "license_number": "ZZP81683",
+        "nid": "1049283650",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "08-02-2022 06:19:28"
     },
     {
         "no": 107,
-        "license_number": "XWN33725",
-        "camera": "DHA1",
-        "timestamp": "09-04-2022 14:05:26"
+        "license_number": "GUO08865",
+        "nid": "5492999585",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "01-07-2022 01:40:49"
     },
     {
         "no": 108,
-        "license_number": "VMA81927",
-        "camera": "DHA8",
-        "timestamp": "20-01-2022 22:34:17"
+        "license_number": "FAD64280",
+        "nid": "1756716442",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "19-09-2022 20:32:23"
     },
     {
         "no": 109,
-        "license_number": "AAB67073",
-        "camera": "DHA6",
-        "timestamp": "15-05-2022 13:57:31"
+        "license_number": "WJF99675",
+        "nid": "6257879021",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "16-01-2022 23:45:51"
     },
     {
         "no": 110,
-        "license_number": "VDD53428",
-        "camera": "DHA0",
-        "timestamp": "01-09-2022 23:18:22"
+        "license_number": "XWF92888",
+        "nid": "1129530305",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "15-06-2022 09:04:04"
     },
     {
         "no": 111,
-        "license_number": "WTY80568",
-        "camera": "DHA7",
-        "timestamp": "13-06-2022 23:06:48"
+        "license_number": "QSY59049",
+        "nid": "4242431818",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "26-05-2022 04:44:54"
     },
     {
         "no": 112,
-        "license_number": "RUP12141",
-        "camera": "DHA4",
-        "timestamp": "11-05-2022 22:12:24"
+        "license_number": "SHD48542",
+        "nid": "7869607436",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "07-07-2022 17:08:58"
     },
     {
         "no": 113,
-        "license_number": "SHE89371",
-        "camera": "DHA8",
-        "timestamp": "16-05-2022 07:08:50"
+        "license_number": "VMV23169",
+        "nid": "3011459533",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "14-04-2022 06:41:12"
     },
     {
         "no": 114,
-        "license_number": "GGV95916",
-        "camera": "DHA7",
-        "timestamp": "02-08-2022 15:40:54"
+        "license_number": "CFU94831",
+        "nid": "3670598433",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "06-04-2022 00:13:15"
     },
     {
         "no": 115,
-        "license_number": "VSJ81180",
-        "camera": "DHA0",
-        "timestamp": "24-08-2022 20:34:05"
+        "license_number": "GSP79772",
+        "nid": "9433225165",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "02-05-2022 05:56:06"
     },
     {
         "no": 116,
-        "license_number": "ENY09525",
-        "camera": "DHA8",
-        "timestamp": "18-05-2022 01:37:49"
+        "license_number": "VID19856",
+        "nid": "5700582117",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "02-05-2022 09:33:59"
     },
     {
         "no": 117,
-        "license_number": "WNI26516",
-        "camera": "DHA0",
-        "timestamp": "09-09-2022 19:26:51"
+        "license_number": "OYY44745",
+        "nid": "7294586089",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "19-08-2022 13:54:19"
     },
     {
         "no": 118,
-        "license_number": "WKH89807",
-        "camera": "DHA0",
-        "timestamp": "25-04-2022 12:31:59"
+        "license_number": "DKT72869",
+        "nid": "2704259590",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "19-08-2022 07:57:32"
     },
     {
         "no": 119,
-        "license_number": "NVB60105",
-        "camera": "DHA7",
-        "timestamp": "18-07-2022 20:29:14"
+        "license_number": "JZT09839",
+        "nid": "0628460255",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "04-04-2022 03:49:53"
     },
     {
         "no": 120,
-        "license_number": "DGX62835",
-        "camera": "DHA6",
-        "timestamp": "17-06-2022 05:13:58"
+        "license_number": "OWS51472",
+        "nid": "5405953271",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "31-01-2022 12:07:35"
     },
     {
         "no": 121,
-        "license_number": "FKW12312",
-        "camera": "DHA1",
-        "timestamp": "14-06-2022 11:53:34"
+        "license_number": "LGU67385",
+        "nid": "7696925451",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "25-04-2022 12:27:07"
     },
     {
         "no": 122,
-        "license_number": "OQN05662",
-        "camera": "DHA9",
-        "timestamp": "11-04-2022 17:27:19"
+        "license_number": "CQU47860",
+        "nid": "5786075127",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "12-01-2022 10:05:46"
     },
     {
         "no": 123,
-        "license_number": "KEF13229",
-        "camera": "DHA9",
-        "timestamp": "18-06-2022 07:20:33"
+        "license_number": "OFH57996",
+        "nid": "5362496862",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "13-06-2022 04:11:41"
     },
     {
         "no": 124,
-        "license_number": "HSD38675",
-        "camera": "DHA3",
-        "timestamp": "18-06-2022 21:05:30"
+        "license_number": "SWT43637",
+        "nid": "5914064229",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "31-08-2022 14:48:21"
     },
     {
         "no": 125,
-        "license_number": "OHV73940",
-        "camera": "DHA0",
-        "timestamp": "02-08-2022 15:56:41"
+        "license_number": "MQD29459",
+        "nid": "9168648428",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "20-03-2022 16:23:38"
     },
     {
         "no": 126,
-        "license_number": "DDO51366",
-        "camera": "DHA9",
-        "timestamp": "22-06-2022 23:38:16"
+        "license_number": "ZEO36071",
+        "nid": "6656014946",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "28-07-2022 18:01:49"
     },
     {
         "no": 127,
-        "license_number": "DWG39696",
-        "camera": "DHA0",
-        "timestamp": "13-07-2022 00:44:52"
+        "license_number": "ZWV94242",
+        "nid": "4425738951",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "13-09-2022 08:26:02"
     },
     {
         "no": 128,
-        "license_number": "WCO71538",
+        "license_number": "CYE20879",
+        "nid": "6492728759",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "08-06-2022 07:11:06"
+        "timestamp": "11-02-2022 21:59:56"
     },
     {
         "no": 129,
-        "license_number": "GBA95980",
-        "camera": "DHA7",
-        "timestamp": "05-09-2022 03:55:02"
+        "license_number": "IJK33090",
+        "nid": "6754981863",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "14-03-2022 19:09:59"
     },
     {
         "no": 130,
-        "license_number": "BAS28256",
-        "camera": "DHA2",
-        "timestamp": "26-05-2022 18:16:32"
+        "license_number": "FGY57660",
+        "nid": "5961070082",
+        "license_validity": false,
+        "camera": "DHA4",
+        "timestamp": "23-05-2022 13:36:50"
     },
     {
         "no": 131,
-        "license_number": "ADW19143",
-        "camera": "DHA4",
-        "timestamp": "16-01-2022 01:19:22"
+        "license_number": "GHU49499",
+        "nid": "2093082680",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "07-05-2022 10:35:37"
     },
     {
         "no": 132,
-        "license_number": "VYJ58351",
-        "camera": "DHA8",
-        "timestamp": "23-04-2022 13:27:51"
+        "license_number": "GSZ98336",
+        "nid": "9690287605",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "12-05-2022 13:42:06"
     },
     {
         "no": 133,
-        "license_number": "AWX22102",
-        "camera": "DHA8",
-        "timestamp": "13-06-2022 06:35:52"
+        "license_number": "YJF56984",
+        "nid": "3166179119",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "19-08-2022 09:54:32"
     },
     {
         "no": 134,
-        "license_number": "BTV21044",
-        "camera": "DHA7",
-        "timestamp": "11-08-2022 18:03:26"
+        "license_number": "RAU44532",
+        "nid": "4203840810",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "06-04-2022 19:36:25"
     },
     {
         "no": 135,
-        "license_number": "CCX09406",
-        "camera": "DHA8",
-        "timestamp": "13-04-2022 21:57:13"
+        "license_number": "JZO88533",
+        "nid": "2382199336",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "15-02-2022 22:07:13"
     },
     {
         "no": 136,
-        "license_number": "OJS73722",
-        "camera": "DHA8",
-        "timestamp": "28-06-2022 17:59:46"
+        "license_number": "NPW18829",
+        "nid": "1076046745",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "10-03-2022 23:26:08"
     },
     {
         "no": 137,
-        "license_number": "ITU19979",
-        "camera": "DHA9",
-        "timestamp": "04-07-2022 15:45:42"
+        "license_number": "CCN61459",
+        "nid": "9127014590",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "23-06-2022 09:04:39"
     },
     {
         "no": 138,
-        "license_number": "CZY32491",
+        "license_number": "RYQ28935",
+        "nid": "8178829647",
+        "license_validity": true,
         "camera": "DHA9",
-        "timestamp": "30-07-2022 01:26:52"
+        "timestamp": "25-04-2022 04:46:53"
     },
     {
         "no": 139,
-        "license_number": "LZR74424",
-        "camera": "DHA3",
-        "timestamp": "03-02-2022 01:08:07"
+        "license_number": "OJK58088",
+        "nid": "6682802138",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "09-01-2022 09:13:01"
     },
     {
         "no": 140,
-        "license_number": "WJF58236",
-        "camera": "DHA1",
-        "timestamp": "14-08-2022 04:34:23"
+        "license_number": "NTM34976",
+        "nid": "8699020442",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "11-06-2022 06:03:49"
     },
     {
         "no": 141,
-        "license_number": "ZGF22206",
-        "camera": "DHA2",
-        "timestamp": "03-02-2022 10:23:33"
+        "license_number": "PHE46914",
+        "nid": "2829078408",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "01-09-2022 14:10:25"
     },
     {
         "no": 142,
-        "license_number": "NTT87080",
-        "camera": "DHA7",
-        "timestamp": "20-04-2022 02:26:23"
+        "license_number": "SYB91234",
+        "nid": "0148457148",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "15-07-2022 14:07:51"
     },
     {
         "no": 143,
-        "license_number": "TDU06386",
-        "camera": "DHA3",
-        "timestamp": "28-08-2022 07:52:57"
+        "license_number": "DLE85214",
+        "nid": "9627781943",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "03-07-2022 01:28:53"
     },
     {
         "no": 144,
-        "license_number": "QRP33570",
-        "camera": "DHA6",
-        "timestamp": "01-03-2022 09:29:37"
+        "license_number": "DVX42985",
+        "nid": "0340318594",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "11-06-2022 11:14:32"
     },
     {
         "no": 145,
-        "license_number": "SIS93463",
-        "camera": "DHA6",
-        "timestamp": "22-04-2022 20:23:24"
+        "license_number": "ASJ24292",
+        "nid": "2514221596",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "20-06-2022 08:50:25"
     },
     {
         "no": 146,
-        "license_number": "HXZ42846",
+        "license_number": "RPE61450",
+        "nid": "8138555032",
+        "license_validity": false,
         "camera": "DHA4",
-        "timestamp": "22-03-2022 17:23:56"
+        "timestamp": "04-05-2022 08:46:34"
     },
     {
         "no": 147,
-        "license_number": "CUY83093",
-        "camera": "DHA5",
-        "timestamp": "04-02-2022 23:01:37"
+        "license_number": "BNT68785",
+        "nid": "9201141612",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "22-02-2022 16:46:50"
     },
     {
         "no": 148,
-        "license_number": "IHG27789",
-        "camera": "DHA8",
-        "timestamp": "14-05-2022 14:35:53"
+        "license_number": "SQJ98714",
+        "nid": "0797046709",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "20-07-2022 20:39:49"
     },
     {
         "no": 149,
-        "license_number": "ECY15097",
-        "camera": "DHA4",
-        "timestamp": "12-07-2022 02:16:23"
+        "license_number": "EXE60977",
+        "nid": "4829705166",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "01-09-2022 16:39:28"
     },
     {
         "no": 150,
-        "license_number": "TBN86952",
-        "camera": "DHA3",
-        "timestamp": "28-06-2022 08:06:14"
+        "license_number": "IHB21561",
+        "nid": "8738987135",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "10-01-2022 20:34:55"
     },
     {
         "no": 151,
-        "license_number": "DED02603",
-        "camera": "DHA5",
-        "timestamp": "09-05-2022 03:35:12"
+        "license_number": "NZD97521",
+        "nid": "6390316515",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "04-07-2022 23:34:06"
     },
     {
         "no": 152,
-        "license_number": "WIS52854",
-        "camera": "DHA3",
-        "timestamp": "17-01-2022 07:41:39"
+        "license_number": "PKC63273",
+        "nid": "5023165659",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "23-09-2022 20:25:55"
     },
     {
         "no": 153,
-        "license_number": "AIC64890",
-        "camera": "DHA6",
-        "timestamp": "14-03-2022 15:46:45"
+        "license_number": "GPL56273",
+        "nid": "4970458961",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "10-06-2022 23:41:31"
     },
     {
         "no": 154,
-        "license_number": "DUO99160",
-        "camera": "DHA2",
-        "timestamp": "26-03-2022 02:45:36"
+        "license_number": "VHZ60887",
+        "nid": "7601400118",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "25-06-2022 10:41:49"
     },
     {
         "no": 155,
-        "license_number": "PMV87272",
-        "camera": "DHA2",
-        "timestamp": "13-05-2022 18:30:14"
+        "license_number": "ZDV13988",
+        "nid": "9338534462",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "02-05-2022 05:49:04"
     },
     {
         "no": 156,
-        "license_number": "HCX10443",
+        "license_number": "JCM66484",
+        "nid": "8747491030",
+        "license_validity": false,
         "camera": "DHA3",
-        "timestamp": "03-03-2022 18:17:03"
+        "timestamp": "27-01-2022 11:19:54"
     },
     {
         "no": 157,
-        "license_number": "MOL18358",
-        "camera": "DHA4",
-        "timestamp": "15-01-2022 22:10:29"
+        "license_number": "LYW97220",
+        "nid": "8047912684",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "07-04-2022 03:56:39"
     },
     {
         "no": 158,
-        "license_number": "BSG79095",
-        "camera": "DHA1",
-        "timestamp": "10-05-2022 10:54:29"
+        "license_number": "UHR74996",
+        "nid": "5654079736",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "28-06-2022 11:53:16"
     },
     {
         "no": 159,
-        "license_number": "JCG66437",
-        "camera": "DHA3",
-        "timestamp": "31-01-2022 12:44:29"
+        "license_number": "FIW88509",
+        "nid": "5836405990",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "09-01-2022 21:55:46"
     },
     {
         "no": 160,
-        "license_number": "AVV83709",
-        "camera": "DHA6",
-        "timestamp": "18-03-2022 22:12:45"
+        "license_number": "YJN38463",
+        "nid": "8188146785",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "11-06-2022 19:59:24"
     },
     {
         "no": 161,
-        "license_number": "HHV67763",
+        "license_number": "HRT09214",
+        "nid": "9923969939",
+        "license_validity": true,
         "camera": "DHA4",
-        "timestamp": "16-03-2022 03:52:13"
+        "timestamp": "14-06-2022 07:06:15"
     },
     {
         "no": 162,
-        "license_number": "VBP39955",
-        "camera": "DHA5",
-        "timestamp": "11-01-2022 16:09:48"
+        "license_number": "ZHC33879",
+        "nid": "5208799994",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "11-03-2022 08:06:02"
     },
     {
         "no": 163,
-        "license_number": "QLW04715",
-        "camera": "DHA5",
-        "timestamp": "29-01-2022 13:00:47"
+        "license_number": "TUL55712",
+        "nid": "0932614394",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "18-03-2022 20:31:43"
     },
     {
         "no": 164,
-        "license_number": "YBH98271",
+        "license_number": "LFB47901",
+        "nid": "3688236639",
+        "license_validity": false,
         "camera": "DHA2",
-        "timestamp": "05-01-2022 21:24:24"
+        "timestamp": "22-02-2022 11:36:24"
     },
     {
         "no": 165,
-        "license_number": "JPF13616",
-        "camera": "DHA4",
-        "timestamp": "03-06-2022 19:19:23"
+        "license_number": "LSZ24167",
+        "nid": "9108978896",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "16-08-2022 00:05:43"
     },
     {
         "no": 166,
-        "license_number": "FHP40533",
-        "camera": "DHA3",
-        "timestamp": "24-03-2022 03:33:39"
+        "license_number": "TZG07181",
+        "nid": "9716755174",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "06-02-2022 18:08:30"
     },
     {
         "no": 167,
-        "license_number": "IBZ58763",
-        "camera": "DHA2",
-        "timestamp": "13-01-2022 18:24:41"
+        "license_number": "IRQ47543",
+        "nid": "5786403696",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "19-06-2022 15:31:38"
     },
     {
         "no": 168,
-        "license_number": "INY32143",
-        "camera": "DHA9",
-        "timestamp": "18-02-2022 13:24:37"
+        "license_number": "BEO35966",
+        "nid": "7703649231",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "11-01-2022 20:33:25"
     },
     {
         "no": 169,
-        "license_number": "JZH36122",
-        "camera": "DHA5",
-        "timestamp": "03-08-2022 03:37:11"
+        "license_number": "RMY79404",
+        "nid": "1011312019",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "18-07-2022 10:26:03"
     },
     {
         "no": 170,
-        "license_number": "SEO16574",
+        "license_number": "ZOY42632",
+        "nid": "0181001676",
+        "license_validity": true,
         "camera": "DHA8",
-        "timestamp": "02-01-2022 10:45:28"
+        "timestamp": "23-01-2022 10:40:14"
     },
     {
         "no": 171,
-        "license_number": "TKJ38628",
-        "camera": "DHA0",
-        "timestamp": "08-02-2022 01:05:43"
+        "license_number": "SNU61976",
+        "nid": "0386113441",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "05-08-2022 08:19:10"
     },
     {
         "no": 172,
-        "license_number": "NEX10104",
-        "camera": "DHA4",
-        "timestamp": "14-09-2022 09:39:39"
+        "license_number": "OWF21133",
+        "nid": "1133548510",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "25-06-2022 00:10:50"
     },
     {
         "no": 173,
-        "license_number": "OYR69316",
-        "camera": "DHA7",
-        "timestamp": "01-05-2022 12:46:49"
+        "license_number": "QRU42665",
+        "nid": "2489072116",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "01-07-2022 09:11:47"
     },
     {
         "no": 174,
-        "license_number": "TAV03293",
+        "license_number": "HQV51232",
+        "nid": "9069999144",
+        "license_validity": true,
         "camera": "DHA8",
-        "timestamp": "29-07-2022 05:45:54"
+        "timestamp": "15-01-2022 01:04:38"
     },
     {
         "no": 175,
-        "license_number": "ZXF86309",
-        "camera": "DHA3",
-        "timestamp": "06-01-2022 15:33:13"
+        "license_number": "IQW11610",
+        "nid": "6322363305",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "29-01-2022 18:55:59"
     },
     {
         "no": 176,
-        "license_number": "OIR10162",
-        "camera": "DHA0",
-        "timestamp": "22-04-2022 01:34:16"
+        "license_number": "GHE37694",
+        "nid": "7133557698",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "15-08-2022 07:44:42"
     },
     {
         "no": 177,
-        "license_number": "ORE74523",
-        "camera": "DHA0",
-        "timestamp": "15-02-2022 23:27:22"
+        "license_number": "MBN80167",
+        "nid": "2823967075",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "11-09-2022 19:53:29"
     },
     {
         "no": 178,
-        "license_number": "CWS35359",
-        "camera": "DHA7",
-        "timestamp": "02-05-2022 06:05:33"
+        "license_number": "LIN81472",
+        "nid": "1883710261",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "02-06-2022 04:03:02"
     },
     {
         "no": 179,
-        "license_number": "AYC37816",
-        "camera": "DHA3",
-        "timestamp": "13-04-2022 22:34:16"
+        "license_number": "QAL15635",
+        "nid": "3887844480",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "05-04-2022 19:18:56"
     },
     {
         "no": 180,
-        "license_number": "MFH84961",
-        "camera": "DHA2",
-        "timestamp": "05-05-2022 03:43:11"
+        "license_number": "JKV19341",
+        "nid": "0500012129",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "08-03-2022 05:19:00"
     },
     {
         "no": 181,
-        "license_number": "XUR18801",
-        "camera": "DHA7",
-        "timestamp": "26-03-2022 22:30:31"
+        "license_number": "YPZ34371",
+        "nid": "9789354924",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "01-05-2022 15:45:12"
     },
     {
         "no": 182,
-        "license_number": "PVL16500",
+        "license_number": "EGL31700",
+        "nid": "9596317131",
+        "license_validity": false,
         "camera": "DHA4",
-        "timestamp": "02-09-2022 00:51:56"
+        "timestamp": "08-06-2022 02:09:16"
     },
     {
         "no": 183,
-        "license_number": "RAZ55112",
-        "camera": "DHA6",
-        "timestamp": "06-03-2022 08:26:54"
+        "license_number": "OFD81671",
+        "nid": "3292818565",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "17-03-2022 16:58:17"
     },
     {
         "no": 184,
-        "license_number": "CCW22484",
-        "camera": "DHA1",
-        "timestamp": "04-03-2022 05:30:27"
+        "license_number": "UPW31908",
+        "nid": "7137893990",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "25-08-2022 23:22:53"
     },
     {
         "no": 185,
-        "license_number": "BEO75188",
-        "camera": "DHA9",
-        "timestamp": "20-04-2022 21:34:54"
+        "license_number": "OVQ51986",
+        "nid": "0718402320",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "19-03-2022 15:13:09"
     },
     {
         "no": 186,
-        "license_number": "TYV49856",
-        "camera": "DHA4",
-        "timestamp": "16-03-2022 03:33:07"
+        "license_number": "ICO90179",
+        "nid": "8622843947",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "05-09-2022 13:53:10"
     },
     {
         "no": 187,
-        "license_number": "VWA88005",
-        "camera": "DHA3",
-        "timestamp": "11-03-2022 15:04:11"
+        "license_number": "ATM67250",
+        "nid": "4696654963",
+        "license_validity": false,
+        "camera": "DHA4",
+        "timestamp": "13-03-2022 07:21:51"
     },
     {
         "no": 188,
-        "license_number": "HBC29079",
-        "camera": "DHA2",
-        "timestamp": "17-02-2022 13:22:01"
+        "license_number": "EOS71433",
+        "nid": "0141818782",
+        "license_validity": false,
+        "camera": "DHA7",
+        "timestamp": "28-08-2022 03:40:07"
     },
     {
         "no": 189,
-        "license_number": "YIX65822",
-        "camera": "DHA4",
-        "timestamp": "07-09-2022 10:34:56"
+        "license_number": "OJZ09176",
+        "nid": "1307592485",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "05-05-2022 05:56:49"
     },
     {
         "no": 190,
-        "license_number": "HDU12509",
-        "camera": "DHA7",
-        "timestamp": "24-04-2022 17:39:16"
+        "license_number": "XFQ46870",
+        "nid": "9711996461",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "29-08-2022 22:08:21"
     },
     {
         "no": 191,
-        "license_number": "NSG65294",
-        "camera": "DHA6",
-        "timestamp": "16-06-2022 09:12:22"
+        "license_number": "AIP16319",
+        "nid": "3834590674",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "10-08-2022 09:28:58"
     },
     {
         "no": 192,
-        "license_number": "XBB14012",
-        "camera": "DHA1",
-        "timestamp": "26-01-2022 06:46:04"
+        "license_number": "TWM36708",
+        "nid": "0222323749",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "07-01-2022 15:06:24"
     },
     {
         "no": 193,
-        "license_number": "HQK60037",
-        "camera": "DHA2",
-        "timestamp": "11-07-2022 11:55:44"
+        "license_number": "ZMN86908",
+        "nid": "4871185126",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "06-08-2022 14:25:44"
     },
     {
         "no": 194,
-        "license_number": "BQA39410",
-        "camera": "DHA9",
-        "timestamp": "20-07-2022 00:30:44"
+        "license_number": "TBI28449",
+        "nid": "7671247792",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "30-08-2022 05:48:09"
     },
     {
         "no": 195,
-        "license_number": "ZXL01247",
-        "camera": "DHA5",
-        "timestamp": "22-06-2022 14:58:05"
+        "license_number": "BNZ57888",
+        "nid": "4658204465",
+        "license_validity": false,
+        "camera": "DHA4",
+        "timestamp": "13-02-2022 14:47:47"
     },
     {
         "no": 196,
-        "license_number": "CRX48489",
-        "camera": "DHA5",
-        "timestamp": "21-06-2022 10:59:18"
+        "license_number": "VIV90383",
+        "nid": "8589837244",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "04-01-2022 05:08:58"
     },
     {
         "no": 197,
-        "license_number": "XMD22916",
+        "license_number": "GUZ80214",
+        "nid": "7286469477",
+        "license_validity": true,
         "camera": "DHA0",
-        "timestamp": "03-04-2022 15:03:05"
+        "timestamp": "04-05-2022 18:50:07"
     },
     {
         "no": 198,
-        "license_number": "JAL08472",
-        "camera": "DHA5",
-        "timestamp": "25-03-2022 06:33:22"
+        "license_number": "TCI47085",
+        "nid": "2407704992",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "27-02-2022 18:48:36"
     },
     {
         "no": 199,
-        "license_number": "QYZ00886",
-        "camera": "DHA3",
-        "timestamp": "31-08-2022 11:10:14"
+        "license_number": "ZUE05277",
+        "nid": "9860640574",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "19-03-2022 08:13:42"
     },
     {
         "no": 200,
-        "license_number": "PLT94203",
-        "camera": "DHA5",
-        "timestamp": "06-08-2022 05:56:31"
+        "license_number": "OXU78009",
+        "nid": "8522842008",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "08-07-2022 00:41:02"
     },
     {
         "no": 201,
-        "license_number": "KTN74867",
-        "camera": "DHA8",
-        "timestamp": "28-03-2022 01:50:04"
+        "license_number": "BBV59523",
+        "nid": "6657525487",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "04-02-2022 21:54:58"
     },
     {
         "no": 202,
-        "license_number": "SFK31822",
+        "license_number": "OLC10831",
+        "nid": "0237051641",
+        "license_validity": true,
         "camera": "DHA9",
-        "timestamp": "06-06-2022 16:13:35"
+        "timestamp": "23-02-2022 02:05:17"
     },
     {
         "no": 203,
-        "license_number": "CSZ26656",
-        "camera": "DHA9",
-        "timestamp": "26-07-2022 19:10:27"
+        "license_number": "DMS58579",
+        "nid": "7626479168",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "16-03-2022 12:59:58"
     },
     {
         "no": 204,
-        "license_number": "LJE97867",
-        "camera": "DHA1",
-        "timestamp": "11-03-2022 00:38:48"
+        "license_number": "KKZ76865",
+        "nid": "0393689966",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "12-07-2022 13:34:29"
     },
     {
         "no": 205,
-        "license_number": "DFN80811",
-        "camera": "DHA4",
-        "timestamp": "07-08-2022 02:20:20"
+        "license_number": "DXR60846",
+        "nid": "5553789066",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "10-09-2022 18:20:27"
     },
     {
         "no": 206,
-        "license_number": "HFK67008",
-        "camera": "DHA1",
-        "timestamp": "31-05-2022 05:15:26"
+        "license_number": "FMY74317",
+        "nid": "7880540768",
+        "license_validity": false,
+        "camera": "DHA0",
+        "timestamp": "29-07-2022 14:35:44"
     },
     {
         "no": 207,
-        "license_number": "QUN18281",
-        "camera": "DHA0",
-        "timestamp": "23-02-2022 17:54:32"
+        "license_number": "ICK59449",
+        "nid": "0237243051",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "24-08-2022 15:51:21"
     },
     {
         "no": 208,
-        "license_number": "WGP07674",
-        "camera": "DHA7",
-        "timestamp": "03-06-2022 16:30:10"
+        "license_number": "XOT54033",
+        "nid": "6783485171",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "10-01-2022 08:56:12"
     },
     {
         "no": 209,
-        "license_number": "YRW91973",
-        "camera": "DHA6",
-        "timestamp": "17-07-2022 19:40:54"
+        "license_number": "IMV65895",
+        "nid": "5326406317",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "19-01-2022 01:43:55"
     },
     {
         "no": 210,
-        "license_number": "NKU14080",
-        "camera": "DHA6",
-        "timestamp": "04-01-2022 23:49:01"
+        "license_number": "YHU56936",
+        "nid": "7934437682",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "19-08-2022 21:36:04"
     },
     {
         "no": 211,
-        "license_number": "JVF62264",
-        "camera": "DHA0",
-        "timestamp": "29-01-2022 12:40:25"
+        "license_number": "XTG14219",
+        "nid": "5633981601",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "18-04-2022 04:03:27"
     },
     {
         "no": 212,
-        "license_number": "YLF05814",
-        "camera": "DHA0",
-        "timestamp": "10-01-2022 20:51:43"
+        "license_number": "MJE06622",
+        "nid": "9324713583",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "02-05-2022 11:56:33"
     },
     {
         "no": 213,
-        "license_number": "FKB87333",
-        "camera": "DHA0",
-        "timestamp": "20-07-2022 17:45:10"
+        "license_number": "UPD83109",
+        "nid": "8339527328",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "29-05-2022 10:55:11"
     },
     {
         "no": 214,
-        "license_number": "MPZ90875",
-        "camera": "DHA6",
-        "timestamp": "19-05-2022 02:16:43"
+        "license_number": "KXW17124",
+        "nid": "4832827896",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "10-07-2022 04:11:41"
     },
     {
         "no": 215,
-        "license_number": "ROQ44810",
-        "camera": "DHA2",
-        "timestamp": "13-05-2022 08:15:06"
+        "license_number": "WWE68249",
+        "nid": "5257326821",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "20-09-2022 21:16:57"
     },
     {
         "no": 216,
-        "license_number": "FGO96699",
-        "camera": "DHA7",
-        "timestamp": "01-06-2022 22:24:54"
+        "license_number": "VRN74503",
+        "nid": "6300388750",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "12-03-2022 13:17:44"
     },
     {
         "no": 217,
-        "license_number": "WTZ12676",
-        "camera": "DHA9",
-        "timestamp": "25-01-2022 12:34:38"
+        "license_number": "XXX52230",
+        "nid": "2184504372",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "10-05-2022 01:04:20"
     },
     {
         "no": 218,
-        "license_number": "DEM98079",
-        "camera": "DHA0",
-        "timestamp": "01-03-2022 17:13:13"
+        "license_number": "XWX86200",
+        "nid": "2958704373",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "26-08-2022 21:12:51"
     },
     {
         "no": 219,
-        "license_number": "VLX49004",
-        "camera": "DHA1",
-        "timestamp": "15-03-2022 07:08:02"
+        "license_number": "IJJ24453",
+        "nid": "3027100077",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "17-08-2022 13:21:48"
     },
     {
         "no": 220,
-        "license_number": "RWU15201",
-        "camera": "DHA8",
-        "timestamp": "25-03-2022 10:10:55"
+        "license_number": "AYG34459",
+        "nid": "6137555192",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "02-08-2022 22:22:13"
     },
     {
         "no": 221,
-        "license_number": "UXF40441",
-        "camera": "DHA8",
-        "timestamp": "08-07-2022 04:42:49"
+        "license_number": "UTF44525",
+        "nid": "7863914872",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "26-06-2022 03:19:43"
     },
     {
         "no": 222,
-        "license_number": "SWZ69890",
-        "camera": "DHA5",
-        "timestamp": "15-09-2022 03:05:54"
+        "license_number": "TVO29023",
+        "nid": "6501420244",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "03-09-2022 02:32:40"
     },
     {
         "no": 223,
-        "license_number": "LIS02203",
+        "license_number": "AKU01273",
+        "nid": "8357825197",
+        "license_validity": false,
         "camera": "DHA5",
-        "timestamp": "15-07-2022 20:32:58"
+        "timestamp": "06-07-2022 15:15:18"
     },
     {
         "no": 224,
-        "license_number": "PUG57952",
-        "camera": "DHA6",
-        "timestamp": "21-07-2022 03:16:05"
+        "license_number": "MDI00696",
+        "nid": "0468587557",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "02-08-2022 15:09:34"
     },
     {
         "no": 225,
-        "license_number": "CGH90175",
-        "camera": "DHA4",
-        "timestamp": "12-04-2022 16:40:08"
+        "license_number": "ZHF57358",
+        "nid": "1103889148",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "05-06-2022 10:15:27"
     },
     {
         "no": 226,
-        "license_number": "DTK48971",
-        "camera": "DHA9",
-        "timestamp": "04-06-2022 09:15:58"
+        "license_number": "AEY83660",
+        "nid": "4090419601",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "21-09-2022 04:54:25"
     },
     {
         "no": 227,
-        "license_number": "LOC65240",
+        "license_number": "EPT07102",
+        "nid": "6736496698",
+        "license_validity": false,
         "camera": "DHA0",
-        "timestamp": "01-07-2022 04:03:33"
+        "timestamp": "09-03-2022 17:17:19"
     },
     {
         "no": 228,
-        "license_number": "KPK78399",
-        "camera": "DHA9",
-        "timestamp": "04-04-2022 05:53:51"
+        "license_number": "MYF75875",
+        "nid": "5330292792",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "01-02-2022 08:23:52"
     },
     {
         "no": 229,
-        "license_number": "AUM22137",
-        "camera": "DHA1",
-        "timestamp": "25-02-2022 05:47:17"
+        "license_number": "JRJ68547",
+        "nid": "5779525700",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "15-04-2022 09:40:21"
     },
     {
         "no": 230,
-        "license_number": "WCK52633",
-        "camera": "DHA0",
-        "timestamp": "04-06-2022 11:46:36"
+        "license_number": "ANL43631",
+        "nid": "4362148112",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "15-09-2022 20:25:51"
     },
     {
         "no": 231,
-        "license_number": "FNE54528",
+        "license_number": "BEQ71065",
+        "nid": "8572625455",
+        "license_validity": true,
         "camera": "DHA7",
-        "timestamp": "04-01-2022 02:32:07"
+        "timestamp": "02-07-2022 08:44:37"
     },
     {
         "no": 232,
-        "license_number": "WPF06335",
-        "camera": "DHA3",
-        "timestamp": "09-04-2022 15:12:48"
+        "license_number": "MJJ98573",
+        "nid": "1254118994",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "02-03-2022 07:06:31"
     },
     {
         "no": 233,
-        "license_number": "ZXS09438",
+        "license_number": "LUL92194",
+        "nid": "6244375561",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "16-06-2022 06:39:14"
+        "timestamp": "22-03-2022 02:16:28"
     },
     {
         "no": 234,
-        "license_number": "PXC19697",
-        "camera": "DHA3",
-        "timestamp": "03-04-2022 13:09:26"
+        "license_number": "QQR10070",
+        "nid": "5275754858",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "07-04-2022 10:58:40"
     },
     {
         "no": 235,
-        "license_number": "RYU62807",
-        "camera": "DHA5",
-        "timestamp": "02-05-2022 18:41:27"
+        "license_number": "GUZ58975",
+        "nid": "6870984828",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "26-04-2022 11:22:11"
     },
     {
         "no": 236,
-        "license_number": "FTB50220",
-        "camera": "DHA7",
-        "timestamp": "23-04-2022 02:04:27"
+        "license_number": "KAN21671",
+        "nid": "1380037843",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "09-01-2022 12:46:57"
     },
     {
         "no": 237,
-        "license_number": "DAN38969",
-        "camera": "DHA5",
-        "timestamp": "26-06-2022 04:02:03"
+        "license_number": "UMU81361",
+        "nid": "3279220560",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "18-03-2022 00:45:28"
     },
     {
         "no": 238,
-        "license_number": "KCV66819",
-        "camera": "DHA7",
-        "timestamp": "14-03-2022 11:44:29"
+        "license_number": "AFF58140",
+        "nid": "2215576795",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "17-08-2022 07:27:02"
     },
     {
         "no": 239,
-        "license_number": "OXS29086",
-        "camera": "DHA3",
-        "timestamp": "22-08-2022 00:01:34"
+        "license_number": "GRI08318",
+        "nid": "2715512340",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "04-03-2022 19:39:33"
     },
     {
         "no": 240,
-        "license_number": "MFH82820",
-        "camera": "DHA5",
-        "timestamp": "01-03-2022 16:34:18"
+        "license_number": "AXJ70529",
+        "nid": "8750696728",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "28-08-2022 15:09:12"
     },
     {
         "no": 241,
-        "license_number": "QEX49051",
-        "camera": "DHA3",
-        "timestamp": "13-08-2022 03:23:40"
+        "license_number": "ATC87873",
+        "nid": "5194848043",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "01-06-2022 18:11:59"
     },
     {
         "no": 242,
-        "license_number": "LWL92654",
-        "camera": "DHA6",
-        "timestamp": "23-02-2022 15:39:18"
+        "license_number": "ART93476",
+        "nid": "9188959219",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "12-04-2022 00:13:50"
     },
     {
         "no": 243,
-        "license_number": "UTU18740",
-        "camera": "DHA0",
-        "timestamp": "04-04-2022 16:56:10"
+        "license_number": "QFS98716",
+        "nid": "7202188379",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "15-02-2022 01:52:31"
     },
     {
         "no": 244,
-        "license_number": "EHO33309",
-        "camera": "DHA7",
-        "timestamp": "15-02-2022 06:54:59"
+        "license_number": "KTB57025",
+        "nid": "6586964569",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "05-06-2022 01:23:40"
     },
     {
         "no": 245,
-        "license_number": "LVL34013",
-        "camera": "DHA7",
-        "timestamp": "09-07-2022 08:40:54"
+        "license_number": "OXY82897",
+        "nid": "5676070534",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "16-03-2022 16:04:23"
     },
     {
         "no": 246,
-        "license_number": "XRY57743",
-        "camera": "DHA1",
-        "timestamp": "29-07-2022 19:51:30"
+        "license_number": "UGF92215",
+        "nid": "7796834329",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "05-06-2022 15:46:50"
     },
     {
         "no": 247,
-        "license_number": "WZD78651",
-        "camera": "DHA7",
-        "timestamp": "30-01-2022 14:38:45"
+        "license_number": "MZO16512",
+        "nid": "0490868461",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "20-07-2022 01:20:05"
     },
     {
         "no": 248,
-        "license_number": "SAK23282",
-        "camera": "DHA9",
-        "timestamp": "06-07-2022 19:24:16"
+        "license_number": "UPR62368",
+        "nid": "3916705931",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "01-09-2022 04:42:40"
     },
     {
         "no": 249,
-        "license_number": "KAW06967",
-        "camera": "DHA2",
-        "timestamp": "19-09-2022 05:08:50"
+        "license_number": "KUG32630",
+        "nid": "7150840364",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "20-01-2022 04:42:21"
     },
     {
         "no": 250,
-        "license_number": "FDT09809",
-        "camera": "DHA8",
-        "timestamp": "09-08-2022 21:35:40"
+        "license_number": "YVF85788",
+        "nid": "5826648402",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "06-03-2022 10:53:27"
     },
     {
         "no": 251,
-        "license_number": "VAM34422",
+        "license_number": "BRG20524",
+        "nid": "3724393546",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "11-07-2022 09:31:07"
+        "timestamp": "18-08-2022 16:50:20"
     },
     {
         "no": 252,
-        "license_number": "ESA51143",
+        "license_number": "TJR56533",
+        "nid": "0656920978",
+        "license_validity": false,
         "camera": "DHA5",
-        "timestamp": "12-04-2022 11:02:21"
+        "timestamp": "06-07-2022 22:28:42"
     },
     {
         "no": 253,
-        "license_number": "WWU00955",
-        "camera": "DHA9",
-        "timestamp": "28-01-2022 21:44:25"
+        "license_number": "GIW12414",
+        "nid": "6764760128",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "03-03-2022 18:46:22"
     },
     {
         "no": 254,
-        "license_number": "MCI16202",
-        "camera": "DHA6",
-        "timestamp": "28-01-2022 05:33:10"
+        "license_number": "IGG24552",
+        "nid": "6233943986",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "19-09-2022 21:04:12"
     },
     {
         "no": 255,
-        "license_number": "JPC45363",
-        "camera": "DHA3",
-        "timestamp": "14-02-2022 20:04:56"
+        "license_number": "APO08860",
+        "nid": "4307248241",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "17-06-2022 22:00:19"
     },
     {
         "no": 256,
-        "license_number": "FRN20689",
+        "license_number": "HVP60574",
+        "nid": "9752032681",
+        "license_validity": true,
         "camera": "DHA7",
-        "timestamp": "01-03-2022 09:16:50"
+        "timestamp": "23-05-2022 17:01:02"
     },
     {
         "no": 257,
-        "license_number": "DVZ42526",
-        "camera": "DHA3",
-        "timestamp": "06-01-2022 20:10:35"
+        "license_number": "IKO44082",
+        "nid": "9441858758",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "20-02-2022 04:46:40"
     },
     {
         "no": 258,
-        "license_number": "IFS64545",
-        "camera": "DHA9",
-        "timestamp": "15-09-2022 11:06:01"
+        "license_number": "GXS37444",
+        "nid": "1244499334",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "05-07-2022 09:28:18"
     },
     {
         "no": 259,
-        "license_number": "VBS14406",
-        "camera": "DHA1",
-        "timestamp": "25-03-2022 20:11:08"
+        "license_number": "GQI28306",
+        "nid": "8450480001",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "17-02-2022 15:39:17"
     },
     {
         "no": 260,
-        "license_number": "NHG38795",
-        "camera": "DHA1",
-        "timestamp": "25-03-2022 19:00:18"
+        "license_number": "CIL66617",
+        "nid": "5010937604",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "08-02-2022 22:42:11"
     },
     {
         "no": 261,
-        "license_number": "JFB42905",
-        "camera": "DHA8",
-        "timestamp": "28-06-2022 05:08:08"
+        "license_number": "UPI06335",
+        "nid": "6722316821",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "22-03-2022 08:36:20"
     },
     {
         "no": 262,
-        "license_number": "OVI02133",
-        "camera": "DHA2",
-        "timestamp": "20-06-2022 00:58:46"
+        "license_number": "WOE41031",
+        "nid": "5413986731",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "21-02-2022 14:13:56"
     },
     {
         "no": 263,
-        "license_number": "GRR13929",
-        "camera": "DHA7",
-        "timestamp": "25-04-2022 05:04:12"
+        "license_number": "YWS65985",
+        "nid": "4594429436",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "16-08-2022 06:24:50"
     },
     {
         "no": 264,
-        "license_number": "SDK53060",
-        "camera": "DHA0",
-        "timestamp": "12-02-2022 09:38:18"
+        "license_number": "CEN38578",
+        "nid": "1172218004",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "06-06-2022 15:41:23"
     },
     {
         "no": 265,
-        "license_number": "HDS86009",
-        "camera": "DHA4",
-        "timestamp": "28-01-2022 06:00:40"
+        "license_number": "NCP64321",
+        "nid": "3419576026",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "18-09-2022 00:08:23"
     },
     {
         "no": 266,
-        "license_number": "BXK71601",
-        "camera": "DHA3",
-        "timestamp": "28-04-2022 16:37:49"
+        "license_number": "SXG21354",
+        "nid": "1373539716",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "13-07-2022 13:20:39"
     },
     {
         "no": 267,
-        "license_number": "JIN01364",
+        "license_number": "NDT39891",
+        "nid": "4886781895",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "03-04-2022 00:14:03"
+        "timestamp": "11-02-2022 00:00:55"
     },
     {
         "no": 268,
-        "license_number": "IGG22815",
-        "camera": "DHA8",
-        "timestamp": "25-01-2022 07:45:27"
+        "license_number": "PBO30072",
+        "nid": "9112847908",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "10-06-2022 09:44:44"
     },
     {
         "no": 269,
-        "license_number": "CFY38622",
-        "camera": "DHA9",
-        "timestamp": "22-02-2022 21:52:20"
+        "license_number": "VSK68512",
+        "nid": "0436325237",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "15-09-2022 22:29:36"
     },
     {
         "no": 270,
-        "license_number": "KAF07472",
+        "license_number": "EDA44279",
+        "nid": "4226010201",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "31-07-2022 01:05:25"
+        "timestamp": "24-04-2022 13:42:22"
     },
     {
         "no": 271,
-        "license_number": "NZS47293",
-        "camera": "DHA8",
-        "timestamp": "27-01-2022 05:06:47"
+        "license_number": "MVN62838",
+        "nid": "8267301830",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "14-03-2022 18:28:33"
     },
     {
         "no": 272,
-        "license_number": "BYF33148",
-        "camera": "DHA0",
-        "timestamp": "05-09-2022 13:22:14"
+        "license_number": "JZH91875",
+        "nid": "0269927988",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "08-01-2022 13:11:53"
     },
     {
         "no": 273,
-        "license_number": "MUU04147",
-        "camera": "DHA5",
-        "timestamp": "09-02-2022 02:43:32"
+        "license_number": "YQD10114",
+        "nid": "2276202744",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "14-02-2022 06:39:18"
     },
     {
         "no": 274,
-        "license_number": "QRZ00436",
+        "license_number": "YXM99016",
+        "nid": "9384765926",
+        "license_validity": false,
         "camera": "DHA1",
-        "timestamp": "06-03-2022 07:42:17"
+        "timestamp": "16-06-2022 14:39:56"
     },
     {
         "no": 275,
-        "license_number": "JRP82054",
-        "camera": "DHA5",
-        "timestamp": "12-03-2022 15:41:08"
+        "license_number": "RNT45936",
+        "nid": "8704718030",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "06-01-2022 20:38:32"
     },
     {
         "no": 276,
-        "license_number": "PCP26104",
-        "camera": "DHA5",
-        "timestamp": "27-01-2022 01:32:34"
+        "license_number": "DLN34632",
+        "nid": "5133147863",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "11-06-2022 15:21:14"
     },
     {
         "no": 277,
-        "license_number": "TLY53431",
-        "camera": "DHA9",
-        "timestamp": "05-04-2022 15:13:46"
+        "license_number": "XMB89085",
+        "nid": "8046028920",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "07-02-2022 05:16:11"
     },
     {
         "no": 278,
-        "license_number": "NWS01520",
-        "camera": "DHA6",
-        "timestamp": "30-05-2022 20:33:50"
+        "license_number": "VEN08269",
+        "nid": "3510012703",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "24-09-2022 14:07:56"
     },
     {
         "no": 279,
-        "license_number": "TKC03226",
-        "camera": "DHA6",
-        "timestamp": "26-01-2022 03:05:29"
+        "license_number": "FGV20183",
+        "nid": "7413927361",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "04-02-2022 11:46:50"
     },
     {
         "no": 280,
-        "license_number": "RMQ41156",
-        "camera": "DHA2",
-        "timestamp": "27-04-2022 13:45:02"
+        "license_number": "GLS69642",
+        "nid": "9731384028",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "19-01-2022 02:01:25"
     },
     {
         "no": 281,
-        "license_number": "SGW59807",
-        "camera": "DHA4",
-        "timestamp": "26-03-2022 15:45:03"
+        "license_number": "DOL97442",
+        "nid": "6777931772",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "15-09-2022 17:26:59"
     },
     {
         "no": 282,
-        "license_number": "FAW83303",
-        "camera": "DHA1",
-        "timestamp": "14-08-2022 20:54:03"
+        "license_number": "HEF83807",
+        "nid": "1602354986",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "09-08-2022 19:45:15"
     },
     {
         "no": 283,
-        "license_number": "JDG34835",
-        "camera": "DHA9",
-        "timestamp": "17-09-2022 15:32:33"
+        "license_number": "SPO21282",
+        "nid": "8828169382",
+        "license_validity": false,
+        "camera": "DHA0",
+        "timestamp": "30-03-2022 09:54:03"
     },
     {
         "no": 284,
-        "license_number": "IMP13518",
+        "license_number": "EIA07036",
+        "nid": "1058123842",
+        "license_validity": true,
         "camera": "DHA4",
-        "timestamp": "28-02-2022 23:24:21"
+        "timestamp": "19-01-2022 00:15:26"
     },
     {
         "no": 285,
-        "license_number": "DVT82033",
-        "camera": "DHA1",
-        "timestamp": "16-06-2022 22:22:37"
+        "license_number": "MKA36372",
+        "nid": "1500063086",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "30-04-2022 10:24:27"
     },
     {
         "no": 286,
-        "license_number": "RFZ85328",
-        "camera": "DHA1",
-        "timestamp": "14-09-2022 03:14:46"
+        "license_number": "UXH92362",
+        "nid": "3058896015",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "07-09-2022 15:25:55"
     },
     {
         "no": 287,
-        "license_number": "IZB48994",
-        "camera": "DHA1",
-        "timestamp": "22-05-2022 01:51:46"
+        "license_number": "RJC48130",
+        "nid": "7372713224",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "18-02-2022 16:28:37"
     },
     {
         "no": 288,
-        "license_number": "CDA12958",
-        "camera": "DHA3",
-        "timestamp": "06-03-2022 03:40:50"
+        "license_number": "MRO28993",
+        "nid": "2339418026",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "11-04-2022 22:10:15"
     },
     {
         "no": 289,
-        "license_number": "UDQ68415",
+        "license_number": "FHM84956",
+        "nid": "4225566124",
+        "license_validity": false,
         "camera": "DHA3",
-        "timestamp": "26-07-2022 02:33:45"
+        "timestamp": "16-04-2022 16:12:13"
     },
     {
         "no": 290,
-        "license_number": "ZEM35316",
-        "camera": "DHA9",
-        "timestamp": "11-04-2022 09:19:35"
+        "license_number": "KQN66858",
+        "nid": "7033893492",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "28-08-2022 23:27:18"
     },
     {
         "no": 291,
-        "license_number": "MIV67568",
-        "camera": "DHA7",
-        "timestamp": "30-08-2022 06:15:06"
+        "license_number": "BAI03421",
+        "nid": "1438016775",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "02-06-2022 19:29:15"
     },
     {
         "no": 292,
-        "license_number": "VVA18819",
-        "camera": "DHA7",
-        "timestamp": "07-01-2022 20:10:10"
+        "license_number": "NGR84804",
+        "nid": "2100627192",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "09-01-2022 03:58:59"
     },
     {
         "no": 293,
-        "license_number": "TDI82314",
+        "license_number": "FVT17888",
+        "nid": "6313935051",
+        "license_validity": true,
         "camera": "DHA2",
-        "timestamp": "12-03-2022 04:53:11"
+        "timestamp": "02-09-2022 16:48:33"
     },
     {
         "no": 294,
-        "license_number": "GAZ10590",
-        "camera": "DHA2",
-        "timestamp": "01-03-2022 07:14:29"
+        "license_number": "QFA40497",
+        "nid": "1945400411",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "14-01-2022 09:22:10"
     },
     {
         "no": 295,
-        "license_number": "OPS89823",
-        "camera": "DHA4",
-        "timestamp": "16-05-2022 22:02:11"
+        "license_number": "UJC61423",
+        "nid": "9485919622",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "04-06-2022 19:26:06"
     },
     {
         "no": 296,
-        "license_number": "TVZ64812",
-        "camera": "DHA4",
-        "timestamp": "07-05-2022 01:42:45"
+        "license_number": "JYU38081",
+        "nid": "7338421785",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "12-08-2022 11:21:42"
     },
     {
         "no": 297,
-        "license_number": "BIH56724",
-        "camera": "DHA8",
-        "timestamp": "23-08-2022 04:12:56"
+        "license_number": "WLO44946",
+        "nid": "7457767292",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "18-01-2022 20:45:29"
     },
     {
         "no": 298,
-        "license_number": "BGY15931",
-        "camera": "DHA9",
-        "timestamp": "19-02-2022 09:50:40"
+        "license_number": "MBG81801",
+        "nid": "9843066662",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "30-08-2022 18:07:30"
     },
     {
         "no": 299,
-        "license_number": "ODR53385",
+        "license_number": "JCT54173",
+        "nid": "6604233514",
+        "license_validity": true,
         "camera": "DHA1",
-        "timestamp": "04-02-2022 23:02:39"
+        "timestamp": "04-03-2022 15:46:11"
     },
     {
         "no": 300,
-        "license_number": "SHY48745",
-        "camera": "DHA3",
-        "timestamp": "19-02-2022 02:06:03"
+        "license_number": "HSM82938",
+        "nid": "1486316357",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "30-03-2022 17:16:47"
     },
     {
         "no": 301,
-        "license_number": "GHT76165",
-        "camera": "DHA4",
-        "timestamp": "26-04-2022 00:04:17"
+        "license_number": "VIF30025",
+        "nid": "9172146274",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "08-07-2022 14:41:20"
     },
     {
         "no": 302,
-        "license_number": "RXY96075",
-        "camera": "DHA0",
-        "timestamp": "09-02-2022 10:07:41"
+        "license_number": "PIB01435",
+        "nid": "0982186664",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "03-04-2022 11:28:02"
     },
     {
         "no": 303,
-        "license_number": "ELK52291",
-        "camera": "DHA8",
-        "timestamp": "22-03-2022 14:36:44"
+        "license_number": "ZEY51180",
+        "nid": "0393658786",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "11-01-2022 13:12:00"
     },
     {
         "no": 304,
-        "license_number": "AZN51874",
-        "camera": "DHA7",
-        "timestamp": "13-08-2022 16:49:59"
+        "license_number": "IRQ15897",
+        "nid": "6327051185",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "12-05-2022 01:23:51"
     },
     {
         "no": 305,
-        "license_number": "RHL77673",
+        "license_number": "LZE95507",
+        "nid": "1320682319",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "02-02-2022 22:18:07"
+        "timestamp": "04-07-2022 12:08:43"
     },
     {
         "no": 306,
-        "license_number": "WHP25656",
-        "camera": "DHA0",
-        "timestamp": "21-07-2022 23:55:24"
+        "license_number": "WMF41123",
+        "nid": "8919825271",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "14-03-2022 04:57:34"
     },
     {
         "no": 307,
-        "license_number": "TAH51825",
-        "camera": "DHA3",
-        "timestamp": "28-05-2022 06:15:39"
+        "license_number": "PDT02235",
+        "nid": "4349227052",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "23-04-2022 02:24:40"
     },
     {
         "no": 308,
-        "license_number": "IMU08238",
-        "camera": "DHA9",
-        "timestamp": "19-08-2022 06:55:44"
+        "license_number": "TFU30454",
+        "nid": "2409587946",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "04-08-2022 13:10:21"
     },
     {
         "no": 309,
-        "license_number": "TWH47802",
-        "camera": "DHA4",
-        "timestamp": "07-08-2022 06:51:03"
+        "license_number": "BBD19007",
+        "nid": "0218348224",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "05-04-2022 16:16:42"
     },
     {
         "no": 310,
-        "license_number": "LMK21221",
-        "camera": "DHA3",
-        "timestamp": "19-01-2022 09:18:16"
+        "license_number": "YNB58364",
+        "nid": "1739642451",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "30-01-2022 10:00:41"
     },
     {
         "no": 311,
-        "license_number": "TPV58758",
-        "camera": "DHA6",
-        "timestamp": "09-05-2022 17:07:08"
+        "license_number": "NTA06883",
+        "nid": "5846093041",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "31-08-2022 23:10:59"
     },
     {
         "no": 312,
-        "license_number": "EDS92410",
-        "camera": "DHA4",
-        "timestamp": "07-05-2022 18:12:11"
+        "license_number": "YXU46610",
+        "nid": "6155657730",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "11-05-2022 08:13:15"
     },
     {
         "no": 313,
-        "license_number": "SEI45155",
-        "camera": "DHA7",
-        "timestamp": "27-03-2022 13:32:43"
+        "license_number": "GNY55762",
+        "nid": "2466226004",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "27-08-2022 08:06:25"
     },
     {
         "no": 314,
-        "license_number": "BRZ77983",
-        "camera": "DHA7",
-        "timestamp": "13-02-2022 07:40:04"
+        "license_number": "IDT89659",
+        "nid": "1784995290",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "11-02-2022 16:30:20"
     },
     {
         "no": 315,
-        "license_number": "ATW21592",
-        "camera": "DHA4",
-        "timestamp": "30-03-2022 15:31:08"
+        "license_number": "NDW28242",
+        "nid": "8158145597",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "14-06-2022 02:20:01"
     },
     {
         "no": 316,
-        "license_number": "YVO32491",
-        "camera": "DHA9",
-        "timestamp": "19-06-2022 04:59:35"
+        "license_number": "THM95471",
+        "nid": "3081857129",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "06-02-2022 05:54:45"
     },
     {
         "no": 317,
-        "license_number": "EDR73790",
-        "camera": "DHA0",
-        "timestamp": "18-03-2022 20:35:25"
+        "license_number": "LPV95527",
+        "nid": "4722363505",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "25-04-2022 20:24:33"
     },
     {
         "no": 318,
-        "license_number": "YAK21814",
+        "license_number": "QOE54398",
+        "nid": "9660698595",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "10-08-2022 19:13:57"
+        "timestamp": "28-02-2022 21:43:03"
     },
     {
         "no": 319,
-        "license_number": "CMO06900",
-        "camera": "DHA4",
-        "timestamp": "14-07-2022 22:18:06"
+        "license_number": "VHY88196",
+        "nid": "7685145530",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "19-06-2022 10:14:00"
     },
     {
         "no": 320,
-        "license_number": "GBN16425",
-        "camera": "DHA3",
-        "timestamp": "08-07-2022 21:37:43"
+        "license_number": "UOD54142",
+        "nid": "5179700347",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "12-02-2022 15:11:45"
     },
     {
         "no": 321,
-        "license_number": "OML08499",
-        "camera": "DHA8",
-        "timestamp": "05-05-2022 11:25:29"
+        "license_number": "DGR98006",
+        "nid": "3464201071",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "13-08-2022 02:01:16"
     },
     {
         "no": 322,
-        "license_number": "PTI88089",
-        "camera": "DHA1",
-        "timestamp": "20-02-2022 00:19:54"
+        "license_number": "JCW26820",
+        "nid": "7947710501",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "09-05-2022 19:57:00"
     },
     {
         "no": 323,
-        "license_number": "HGI65112",
-        "camera": "DHA8",
-        "timestamp": "15-07-2022 06:24:03"
+        "license_number": "CPW96423",
+        "nid": "7226543317",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "17-01-2022 06:39:35"
     },
     {
         "no": 324,
-        "license_number": "AEJ90250",
-        "camera": "DHA3",
-        "timestamp": "23-06-2022 02:00:05"
+        "license_number": "UQP78967",
+        "nid": "8510982824",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "18-06-2022 21:00:02"
     },
     {
         "no": 325,
-        "license_number": "NIV84020",
-        "camera": "DHA6",
-        "timestamp": "03-03-2022 23:10:21"
+        "license_number": "VCM25086",
+        "nid": "9760395787",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "13-02-2022 17:34:26"
     },
     {
         "no": 326,
-        "license_number": "TLW06774",
-        "camera": "DHA9",
-        "timestamp": "25-01-2022 01:51:14"
+        "license_number": "UHS37043",
+        "nid": "5387105913",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "21-03-2022 01:59:38"
     },
     {
         "no": 327,
-        "license_number": "TJD28866",
-        "camera": "DHA9",
-        "timestamp": "13-08-2022 22:00:45"
+        "license_number": "KGA67455",
+        "nid": "3528847831",
+        "license_validity": false,
+        "camera": "DHA6",
+        "timestamp": "07-01-2022 14:36:53"
     },
     {
         "no": 328,
-        "license_number": "BVV97373",
-        "camera": "DHA8",
-        "timestamp": "04-06-2022 00:11:26"
+        "license_number": "OGK16517",
+        "nid": "7079711738",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "04-07-2022 07:06:54"
     },
     {
         "no": 329,
-        "license_number": "FSR78924",
-        "camera": "DHA7",
-        "timestamp": "06-09-2022 15:21:22"
+        "license_number": "JQA78786",
+        "nid": "7956747120",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "11-06-2022 06:18:03"
     },
     {
         "no": 330,
-        "license_number": "VCH26196",
-        "camera": "DHA4",
-        "timestamp": "07-07-2022 00:58:22"
+        "license_number": "COJ30239",
+        "nid": "8983735713",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "02-04-2022 02:53:21"
     },
     {
         "no": 331,
-        "license_number": "OFG00130",
-        "camera": "DHA1",
-        "timestamp": "18-08-2022 14:52:25"
+        "license_number": "LJK50390",
+        "nid": "7058685752",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "10-02-2022 04:49:34"
     },
     {
         "no": 332,
-        "license_number": "LQN65551",
-        "camera": "DHA5",
-        "timestamp": "14-03-2022 01:46:14"
+        "license_number": "GNC39779",
+        "nid": "4386824119",
+        "license_validity": false,
+        "camera": "DHA4",
+        "timestamp": "07-07-2022 07:27:21"
     },
     {
         "no": 333,
-        "license_number": "UQC54380",
-        "camera": "DHA4",
-        "timestamp": "16-08-2022 18:08:25"
+        "license_number": "WZT75632",
+        "nid": "7150346020",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "13-01-2022 10:14:46"
     },
     {
         "no": 334,
-        "license_number": "MDZ07399",
-        "camera": "DHA4",
-        "timestamp": "01-01-2022 12:09:09"
+        "license_number": "DLO63710",
+        "nid": "7333910877",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "14-09-2022 06:58:59"
     },
     {
         "no": 335,
-        "license_number": "DDC68079",
-        "camera": "DHA3",
-        "timestamp": "17-01-2022 17:38:35"
+        "license_number": "TVO92919",
+        "nid": "7073207394",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "18-07-2022 21:52:12"
     },
     {
         "no": 336,
-        "license_number": "UWC60016",
-        "camera": "DHA4",
-        "timestamp": "15-06-2022 09:05:11"
+        "license_number": "CZQ39494",
+        "nid": "3256915111",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "24-06-2022 22:26:21"
     },
     {
         "no": 337,
-        "license_number": "ODR86079",
-        "camera": "DHA0",
-        "timestamp": "13-09-2022 01:29:19"
+        "license_number": "XNA99179",
+        "nid": "9911668636",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "24-06-2022 17:30:31"
     },
     {
         "no": 338,
-        "license_number": "DDW23261",
-        "camera": "DHA5",
-        "timestamp": "31-08-2022 12:13:55"
+        "license_number": "UWV48026",
+        "nid": "4319114115",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "22-08-2022 21:59:47"
     },
     {
         "no": 339,
-        "license_number": "ITK81393",
-        "camera": "DHA1",
-        "timestamp": "04-03-2022 08:28:58"
+        "license_number": "TUG92344",
+        "nid": "4854096541",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "14-01-2022 21:50:49"
     },
     {
         "no": 340,
-        "license_number": "NYQ37614",
-        "camera": "DHA1",
-        "timestamp": "22-04-2022 17:11:16"
+        "license_number": "AHP24107",
+        "nid": "2356565581",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "25-06-2022 15:28:14"
     },
     {
         "no": 341,
-        "license_number": "IBA59345",
-        "camera": "DHA5",
-        "timestamp": "09-04-2022 16:56:54"
+        "license_number": "UYO40162",
+        "nid": "2962002031",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "15-04-2022 17:54:24"
     },
     {
         "no": 342,
-        "license_number": "ABD79018",
-        "camera": "DHA1",
-        "timestamp": "13-01-2022 01:52:44"
+        "license_number": "LQZ27195",
+        "nid": "8239382369",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "24-04-2022 16:52:38"
     },
     {
         "no": 343,
-        "license_number": "BZH60011",
-        "camera": "DHA9",
-        "timestamp": "09-03-2022 14:05:55"
+        "license_number": "BDA00529",
+        "nid": "3183934363",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "22-08-2022 15:29:10"
     },
     {
         "no": 344,
-        "license_number": "BWE80573",
-        "camera": "DHA4",
-        "timestamp": "02-04-2022 19:46:31"
+        "license_number": "MHF74033",
+        "nid": "3152647332",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "25-07-2022 19:32:41"
     },
     {
         "no": 345,
-        "license_number": "OER35501",
-        "camera": "DHA6",
-        "timestamp": "19-01-2022 09:52:23"
+        "license_number": "AEJ68651",
+        "nid": "6208582201",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "12-02-2022 22:41:08"
     },
     {
         "no": 346,
-        "license_number": "MVZ69735",
-        "camera": "DHA0",
-        "timestamp": "30-03-2022 10:08:56"
+        "license_number": "LTV31924",
+        "nid": "8182073995",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "06-02-2022 09:31:58"
     },
     {
         "no": 347,
-        "license_number": "BQA54885",
+        "license_number": "JEH03338",
+        "nid": "4150836864",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "05-09-2022 22:40:44"
+        "timestamp": "16-02-2022 11:54:16"
     },
     {
         "no": 348,
-        "license_number": "JTU75151",
-        "camera": "DHA4",
-        "timestamp": "03-07-2022 04:09:17"
+        "license_number": "EJK53902",
+        "nid": "8280768039",
+        "license_validity": false,
+        "camera": "DHA7",
+        "timestamp": "18-09-2022 03:38:45"
     },
     {
         "no": 349,
-        "license_number": "YHP14429",
-        "camera": "DHA3",
-        "timestamp": "02-05-2022 05:42:37"
+        "license_number": "XYN97809",
+        "nid": "4630608072",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "02-01-2022 18:52:49"
     },
     {
         "no": 350,
-        "license_number": "XVB70763",
-        "camera": "DHA7",
-        "timestamp": "05-07-2022 22:25:38"
+        "license_number": "QMX62473",
+        "nid": "7223909158",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "22-01-2022 16:11:40"
     },
     {
         "no": 351,
-        "license_number": "NVC10525",
-        "camera": "DHA2",
-        "timestamp": "13-08-2022 07:10:04"
+        "license_number": "BIB73387",
+        "nid": "8575986497",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "05-01-2022 03:20:28"
     },
     {
         "no": 352,
-        "license_number": "OXG37624",
-        "camera": "DHA1",
-        "timestamp": "05-06-2022 15:08:24"
+        "license_number": "AWQ79068",
+        "nid": "5505102897",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "17-03-2022 03:19:32"
     },
     {
         "no": 353,
-        "license_number": "YFK46047",
-        "camera": "DHA0",
-        "timestamp": "03-01-2022 06:13:29"
+        "license_number": "NAZ03492",
+        "nid": "9975126488",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "02-03-2022 14:31:32"
     },
     {
         "no": 354,
-        "license_number": "NOL08314",
+        "license_number": "MBE03510",
+        "nid": "1306532083",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "25-07-2022 06:45:27"
+        "timestamp": "03-06-2022 20:36:48"
     },
     {
         "no": 355,
-        "license_number": "JSO34219",
-        "camera": "DHA9",
-        "timestamp": "01-01-2022 18:01:44"
+        "license_number": "UMY82332",
+        "nid": "4037558497",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "16-02-2022 16:51:43"
     },
     {
         "no": 356,
-        "license_number": "VEF09889",
-        "camera": "DHA2",
-        "timestamp": "15-09-2022 19:10:30"
+        "license_number": "FAH10158",
+        "nid": "4447894096",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "25-08-2022 12:22:21"
     },
     {
         "no": 357,
-        "license_number": "KWW58485",
-        "camera": "DHA2",
-        "timestamp": "21-02-2022 09:14:02"
+        "license_number": "OTP26118",
+        "nid": "7116307392",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "15-05-2022 00:42:09"
     },
     {
         "no": 358,
-        "license_number": "WJW96379",
-        "camera": "DHA8",
-        "timestamp": "04-08-2022 22:18:01"
+        "license_number": "MOK80373",
+        "nid": "8677994849",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "17-07-2022 15:44:19"
     },
     {
         "no": 359,
-        "license_number": "FBA43800",
-        "camera": "DHA1",
-        "timestamp": "21-02-2022 02:32:51"
+        "license_number": "YSF84088",
+        "nid": "4499353092",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "18-02-2022 02:45:27"
     },
     {
         "no": 360,
-        "license_number": "IGI66886",
-        "camera": "DHA6",
-        "timestamp": "25-07-2022 07:05:09"
+        "license_number": "IWQ66663",
+        "nid": "5361270058",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "29-06-2022 12:26:14"
     },
     {
         "no": 361,
-        "license_number": "WMV76032",
-        "camera": "DHA8",
-        "timestamp": "11-05-2022 16:44:56"
+        "license_number": "GYN57737",
+        "nid": "2350423200",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "05-04-2022 17:22:54"
     },
     {
         "no": 362,
-        "license_number": "JVH94080",
-        "camera": "DHA0",
-        "timestamp": "09-02-2022 19:47:42"
+        "license_number": "DPM68646",
+        "nid": "1544324591",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "20-03-2022 11:17:25"
     },
     {
         "no": 363,
-        "license_number": "DFL38591",
-        "camera": "DHA5",
-        "timestamp": "06-05-2022 19:16:41"
+        "license_number": "VSD65485",
+        "nid": "5017362624",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "16-02-2022 04:57:17"
     },
     {
         "no": 364,
-        "license_number": "ODU37835",
-        "camera": "DHA8",
-        "timestamp": "27-05-2022 17:08:41"
+        "license_number": "KUK71799",
+        "nid": "5188095068",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "28-08-2022 19:25:18"
     },
     {
         "no": 365,
-        "license_number": "WLU86602",
-        "camera": "DHA5",
-        "timestamp": "22-02-2022 03:54:11"
+        "license_number": "DNE64042",
+        "nid": "4028330303",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "01-02-2022 08:15:50"
     },
     {
         "no": 366,
-        "license_number": "RSM26212",
-        "camera": "DHA9",
-        "timestamp": "19-08-2022 05:05:38"
+        "license_number": "WTF18236",
+        "nid": "4195207596",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "26-04-2022 13:57:31"
     },
     {
         "no": 367,
-        "license_number": "GSJ73677",
-        "camera": "DHA7",
-        "timestamp": "01-04-2022 01:55:57"
+        "license_number": "POR05650",
+        "nid": "9630936292",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "10-06-2022 18:18:57"
     },
     {
         "no": 368,
-        "license_number": "FFO53297",
-        "camera": "DHA6",
-        "timestamp": "12-06-2022 20:18:02"
+        "license_number": "INI70015",
+        "nid": "9622306357",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "24-02-2022 05:47:48"
     },
     {
         "no": 369,
-        "license_number": "SYG96291",
-        "camera": "DHA0",
-        "timestamp": "23-04-2022 08:15:56"
+        "license_number": "OFX18499",
+        "nid": "4923848697",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "03-05-2022 14:20:22"
     },
     {
         "no": 370,
-        "license_number": "RQR07560",
-        "camera": "DHA3",
-        "timestamp": "05-03-2022 11:05:08"
+        "license_number": "MPK51330",
+        "nid": "9660897282",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "24-01-2022 07:03:18"
     },
     {
         "no": 371,
-        "license_number": "AUX03456",
-        "camera": "DHA9",
-        "timestamp": "25-08-2022 08:27:07"
+        "license_number": "VDV81240",
+        "nid": "9988848888",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "15-06-2022 03:23:08"
     },
     {
         "no": 372,
-        "license_number": "UMD97889",
-        "camera": "DHA8",
-        "timestamp": "08-04-2022 07:18:56"
+        "license_number": "MTQ82232",
+        "nid": "0732852973",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "16-06-2022 05:49:34"
     },
     {
         "no": 373,
-        "license_number": "ODD69462",
-        "camera": "DHA3",
-        "timestamp": "11-08-2022 17:25:46"
+        "license_number": "CLA89581",
+        "nid": "7049596603",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "10-07-2022 13:21:42"
     },
     {
         "no": 374,
-        "license_number": "EYQ68138",
-        "camera": "DHA2",
-        "timestamp": "10-06-2022 22:32:52"
+        "license_number": "BSM56750",
+        "nid": "6192819157",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "14-02-2022 11:46:44"
     },
     {
         "no": 375,
-        "license_number": "UDJ16508",
-        "camera": "DHA2",
-        "timestamp": "19-07-2022 20:40:54"
+        "license_number": "ETF58881",
+        "nid": "3290241900",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "11-09-2022 08:16:09"
     },
     {
         "no": 376,
-        "license_number": "HSC03205",
+        "license_number": "NCQ92611",
+        "nid": "5077757247",
+        "license_validity": true,
         "camera": "DHA3",
-        "timestamp": "23-05-2022 09:03:31"
+        "timestamp": "23-04-2022 09:18:05"
     },
     {
         "no": 377,
-        "license_number": "QCX17249",
-        "camera": "DHA6",
-        "timestamp": "26-08-2022 06:13:29"
+        "license_number": "NLO28405",
+        "nid": "3178184432",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "03-08-2022 14:24:14"
     },
     {
         "no": 378,
-        "license_number": "UEF05273",
-        "camera": "DHA6",
-        "timestamp": "23-01-2022 22:07:45"
+        "license_number": "MYV25759",
+        "nid": "8442491245",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "26-04-2022 18:38:39"
     },
     {
         "no": 379,
-        "license_number": "TYL03954",
-        "camera": "DHA1",
-        "timestamp": "31-08-2022 12:58:58"
+        "license_number": "CRE29183",
+        "nid": "6551957309",
+        "license_validity": false,
+        "camera": "DHA5",
+        "timestamp": "08-01-2022 09:38:44"
     },
     {
         "no": 380,
-        "license_number": "TWT22949",
-        "camera": "DHA0",
-        "timestamp": "03-05-2022 16:31:17"
+        "license_number": "GGL78800",
+        "nid": "2966920680",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "30-04-2022 19:41:09"
     },
     {
         "no": 381,
-        "license_number": "OKR51734",
-        "camera": "DHA5",
-        "timestamp": "06-06-2022 21:41:09"
+        "license_number": "VAV53188",
+        "nid": "7524463135",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "01-01-2022 15:17:37"
     },
     {
         "no": 382,
-        "license_number": "PQR75308",
-        "camera": "DHA3",
-        "timestamp": "03-03-2022 16:43:19"
+        "license_number": "ATW16909",
+        "nid": "9440384278",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "12-09-2022 19:39:17"
     },
     {
         "no": 383,
-        "license_number": "BRN69497",
-        "camera": "DHA6",
-        "timestamp": "08-06-2022 18:07:01"
+        "license_number": "WAX08809",
+        "nid": "3120918405",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "06-08-2022 04:47:29"
     },
     {
         "no": 384,
-        "license_number": "GPP12822",
-        "camera": "DHA5",
-        "timestamp": "23-05-2022 15:09:09"
+        "license_number": "QWB16235",
+        "nid": "6239857673",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "24-04-2022 19:24:48"
     },
     {
         "no": 385,
-        "license_number": "INO25027",
-        "camera": "DHA5",
-        "timestamp": "01-01-2022 02:14:55"
+        "license_number": "OFB66472",
+        "nid": "3608338439",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "08-03-2022 12:38:20"
     },
     {
         "no": 386,
-        "license_number": "CXT01531",
-        "camera": "DHA9",
-        "timestamp": "18-01-2022 02:21:14"
+        "license_number": "WWZ83017",
+        "nid": "2173400288",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "11-03-2022 16:35:28"
     },
     {
         "no": 387,
-        "license_number": "RPX67094",
-        "camera": "DHA9",
-        "timestamp": "09-03-2022 17:46:12"
+        "license_number": "EPM12593",
+        "nid": "2180363894",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "18-03-2022 20:15:38"
     },
     {
         "no": 388,
-        "license_number": "GEN60732",
-        "camera": "DHA4",
-        "timestamp": "02-04-2022 10:57:43"
+        "license_number": "XLF47990",
+        "nid": "6742524925",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "14-07-2022 13:13:51"
     },
     {
         "no": 389,
-        "license_number": "DRY86842",
-        "camera": "DHA0",
-        "timestamp": "07-01-2022 14:07:35"
+        "license_number": "RQN85071",
+        "nid": "7977285031",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "27-02-2022 03:54:33"
     },
     {
         "no": 390,
-        "license_number": "PHB44676",
-        "camera": "DHA2",
-        "timestamp": "13-01-2022 00:23:37"
+        "license_number": "UEB46660",
+        "nid": "4162712034",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "23-06-2022 18:21:29"
     },
     {
         "no": 391,
-        "license_number": "MBL98633",
-        "camera": "DHA2",
-        "timestamp": "08-04-2022 04:04:01"
+        "license_number": "XNU35945",
+        "nid": "2841272898",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "25-05-2022 09:39:33"
     },
     {
         "no": 392,
-        "license_number": "AVQ66613",
-        "camera": "DHA7",
-        "timestamp": "27-07-2022 17:37:14"
+        "license_number": "OEQ48133",
+        "nid": "0221016847",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "27-07-2022 18:05:48"
     },
     {
         "no": 393,
-        "license_number": "NOZ41994",
-        "camera": "DHA7",
-        "timestamp": "03-03-2022 03:34:01"
+        "license_number": "HGW67832",
+        "nid": "9927697675",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "20-03-2022 03:47:34"
     },
     {
         "no": 394,
-        "license_number": "HCH67006",
-        "camera": "DHA7",
-        "timestamp": "01-06-2022 08:49:43"
+        "license_number": "CUQ59328",
+        "nid": "9095248791",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "05-04-2022 14:20:28"
     },
     {
         "no": 395,
-        "license_number": "XOM92672",
-        "camera": "DHA1",
-        "timestamp": "20-03-2022 16:33:25"
+        "license_number": "QAY37872",
+        "nid": "4449704678",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "14-08-2022 03:58:05"
     },
     {
         "no": 396,
-        "license_number": "WWZ67281",
-        "camera": "DHA6",
-        "timestamp": "05-01-2022 18:30:23"
+        "license_number": "MZN82452",
+        "nid": "3161071481",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "26-02-2022 22:06:10"
     },
     {
         "no": 397,
-        "license_number": "XXH16155",
-        "camera": "DHA4",
-        "timestamp": "25-02-2022 05:26:55"
+        "license_number": "VMT12850",
+        "nid": "1426218282",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "16-04-2022 17:22:34"
     },
     {
         "no": 398,
-        "license_number": "KAR30970",
-        "camera": "DHA9",
-        "timestamp": "27-03-2022 22:08:14"
+        "license_number": "QIX64823",
+        "nid": "1457680243",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "08-09-2022 11:36:40"
     },
     {
         "no": 399,
-        "license_number": "WLU75457",
-        "camera": "DHA7",
-        "timestamp": "16-05-2022 20:38:00"
+        "license_number": "NRN67313",
+        "nid": "0049062605",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "04-06-2022 07:27:58"
     },
     {
         "no": 400,
-        "license_number": "DIG34406",
-        "camera": "DHA1",
-        "timestamp": "12-01-2022 11:49:56"
+        "license_number": "YJB76700",
+        "nid": "6156988007",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "09-08-2022 03:38:56"
     },
     {
         "no": 401,
-        "license_number": "BKM88428",
-        "camera": "DHA5",
-        "timestamp": "01-04-2022 10:13:48"
+        "license_number": "SVP44496",
+        "nid": "7701166927",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "17-01-2022 21:47:36"
     },
     {
         "no": 402,
-        "license_number": "WWF11719",
-        "camera": "DHA4",
-        "timestamp": "09-09-2022 06:53:29"
+        "license_number": "PTP35412",
+        "nid": "1967920419",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "20-05-2022 04:37:45"
     },
     {
         "no": 403,
-        "license_number": "ARE09831",
-        "camera": "DHA5",
-        "timestamp": "13-05-2022 07:21:25"
+        "license_number": "TMB69834",
+        "nid": "8062776160",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "27-04-2022 02:09:05"
     },
     {
         "no": 404,
-        "license_number": "OIH41055",
-        "camera": "DHA6",
-        "timestamp": "17-03-2022 16:28:08"
+        "license_number": "RBN76030",
+        "nid": "1811952255",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "26-03-2022 11:04:01"
     },
     {
         "no": 405,
-        "license_number": "ARX73062",
+        "license_number": "RXJ02473",
+        "nid": "8459944161",
+        "license_validity": false,
         "camera": "DHA3",
-        "timestamp": "27-07-2022 04:30:45"
+        "timestamp": "16-08-2022 08:39:57"
     },
     {
         "no": 406,
-        "license_number": "XXT74636",
-        "camera": "DHA3",
-        "timestamp": "03-08-2022 17:43:18"
+        "license_number": "IVI70695",
+        "nid": "2807566265",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "10-03-2022 21:48:13"
     },
     {
         "no": 407,
-        "license_number": "BGI19863",
-        "camera": "DHA2",
-        "timestamp": "27-01-2022 02:16:28"
+        "license_number": "NST67527",
+        "nid": "2659625526",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "11-05-2022 18:18:21"
     },
     {
         "no": 408,
-        "license_number": "JOH56452",
-        "camera": "DHA9",
-        "timestamp": "06-05-2022 01:48:49"
+        "license_number": "FDK55339",
+        "nid": "9185948464",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "26-06-2022 05:32:43"
     },
     {
         "no": 409,
-        "license_number": "OTC23306",
-        "camera": "DHA2",
-        "timestamp": "21-05-2022 09:45:33"
+        "license_number": "PFT09578",
+        "nid": "4557226443",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "04-04-2022 17:39:37"
     },
     {
         "no": 410,
-        "license_number": "DTX80243",
-        "camera": "DHA5",
-        "timestamp": "25-05-2022 21:01:26"
+        "license_number": "JBI51425",
+        "nid": "6843114950",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "08-07-2022 08:24:39"
     },
     {
         "no": 411,
-        "license_number": "CXR02807",
-        "camera": "DHA9",
-        "timestamp": "16-08-2022 10:21:09"
+        "license_number": "BUQ95300",
+        "nid": "4856199997",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "19-09-2022 00:24:58"
     },
     {
         "no": 412,
-        "license_number": "YEU60747",
+        "license_number": "FVR09174",
+        "nid": "1417892833",
+        "license_validity": true,
         "camera": "DHA2",
-        "timestamp": "09-03-2022 07:30:38"
+        "timestamp": "12-04-2022 12:15:00"
     },
     {
         "no": 413,
-        "license_number": "TDJ67016",
-        "camera": "DHA6",
-        "timestamp": "05-06-2022 22:06:47"
+        "license_number": "VXU25703",
+        "nid": "4542553620",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "01-05-2022 18:04:45"
     },
     {
         "no": 414,
-        "license_number": "XVG32121",
-        "camera": "DHA2",
-        "timestamp": "19-02-2022 06:05:24"
+        "license_number": "CUL22676",
+        "nid": "0897044359",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "03-05-2022 10:17:32"
     },
     {
         "no": 415,
-        "license_number": "DUK50986",
+        "license_number": "QSW66117",
+        "nid": "8871668232",
+        "license_validity": true,
         "camera": "DHA6",
-        "timestamp": "27-07-2022 23:57:38"
+        "timestamp": "05-01-2022 21:03:12"
     },
     {
         "no": 416,
-        "license_number": "ROX50710",
-        "camera": "DHA9",
-        "timestamp": "19-08-2022 03:31:15"
+        "license_number": "NSB79301",
+        "nid": "6330508793",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "28-07-2022 21:23:49"
     },
     {
         "no": 417,
-        "license_number": "UWJ63640",
-        "camera": "DHA1",
-        "timestamp": "15-07-2022 08:06:47"
+        "license_number": "LHO05106",
+        "nid": "3495529810",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "07-04-2022 07:19:35"
     },
     {
         "no": 418,
-        "license_number": "HYF06718",
-        "camera": "DHA1",
-        "timestamp": "29-03-2022 15:38:56"
+        "license_number": "TVF84963",
+        "nid": "9119329251",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "17-04-2022 06:42:12"
     },
     {
         "no": 419,
-        "license_number": "JRL37009",
-        "camera": "DHA6",
-        "timestamp": "31-05-2022 07:03:11"
+        "license_number": "PHH48592",
+        "nid": "1114055131",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "16-05-2022 17:31:52"
     },
     {
         "no": 420,
-        "license_number": "FKV25397",
+        "license_number": "VKE02899",
+        "nid": "3088684652",
+        "license_validity": true,
         "camera": "DHA5",
-        "timestamp": "08-08-2022 20:44:03"
+        "timestamp": "23-03-2022 07:54:31"
     },
     {
         "no": 421,
-        "license_number": "TJF22793",
-        "camera": "DHA0",
-        "timestamp": "14-04-2022 09:26:42"
+        "license_number": "HDI50757",
+        "nid": "0769776789",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "23-03-2022 16:38:09"
     },
     {
         "no": 422,
-        "license_number": "EZJ17013",
+        "license_number": "UCP55055",
+        "nid": "6432481770",
+        "license_validity": true,
         "camera": "DHA7",
-        "timestamp": "25-04-2022 03:08:17"
+        "timestamp": "18-08-2022 03:32:43"
     },
     {
         "no": 423,
-        "license_number": "WSD13733",
-        "camera": "DHA1",
-        "timestamp": "09-04-2022 02:56:06"
+        "license_number": "REW15813",
+        "nid": "8978914130",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "03-05-2022 07:31:14"
     },
     {
         "no": 424,
-        "license_number": "RGH76451",
-        "camera": "DHA8",
-        "timestamp": "20-06-2022 06:09:37"
+        "license_number": "MMC58446",
+        "nid": "7129138605",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "06-09-2022 08:58:47"
     },
     {
         "no": 425,
-        "license_number": "OEC24765",
-        "camera": "DHA9",
-        "timestamp": "08-05-2022 05:37:32"
+        "license_number": "PQG88113",
+        "nid": "9654235875",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "19-02-2022 03:21:15"
     },
     {
         "no": 426,
-        "license_number": "IBF69798",
-        "camera": "DHA0",
-        "timestamp": "10-07-2022 02:40:38"
+        "license_number": "VUO21429",
+        "nid": "5402851485",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "21-06-2022 20:13:58"
     },
     {
         "no": 427,
-        "license_number": "MCE86205",
-        "camera": "DHA6",
-        "timestamp": "27-07-2022 06:09:26"
+        "license_number": "YUT48244",
+        "nid": "7528189289",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "06-05-2022 04:23:58"
     },
     {
         "no": 428,
-        "license_number": "SGM08871",
+        "license_number": "DBJ26259",
+        "nid": "6948077327",
+        "license_validity": true,
         "camera": "DHA0",
-        "timestamp": "06-07-2022 11:10:16"
+        "timestamp": "05-06-2022 18:29:45"
     },
     {
         "no": 429,
-        "license_number": "IJG67474",
-        "camera": "DHA7",
-        "timestamp": "10-05-2022 01:03:12"
+        "license_number": "PDJ16540",
+        "nid": "6405849801",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "25-04-2022 04:06:50"
     },
     {
         "no": 430,
-        "license_number": "PYC23104",
-        "camera": "DHA7",
-        "timestamp": "21-06-2022 14:57:48"
+        "license_number": "NDB65809",
+        "nid": "5681091608",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "13-03-2022 22:27:31"
     },
     {
         "no": 431,
-        "license_number": "ZDX27691",
-        "camera": "DHA9",
-        "timestamp": "07-03-2022 05:40:07"
+        "license_number": "JWY73103",
+        "nid": "7064470179",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "15-06-2022 10:01:18"
     },
     {
         "no": 432,
-        "license_number": "WZN00900",
-        "camera": "DHA0",
-        "timestamp": "02-03-2022 16:13:01"
+        "license_number": "KSL37787",
+        "nid": "9319073261",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "05-01-2022 03:25:23"
     },
     {
         "no": 433,
-        "license_number": "IOI83241",
-        "camera": "DHA0",
-        "timestamp": "05-02-2022 03:58:22"
+        "license_number": "VLX63076",
+        "nid": "0748331597",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "27-08-2022 07:32:19"
     },
     {
         "no": 434,
-        "license_number": "DYH51962",
-        "camera": "DHA3",
-        "timestamp": "04-06-2022 19:34:33"
+        "license_number": "AYV26781",
+        "nid": "8088885457",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "04-09-2022 23:14:07"
     },
     {
         "no": 435,
-        "license_number": "OLM61212",
-        "camera": "DHA2",
-        "timestamp": "20-06-2022 21:35:02"
+        "license_number": "BIU59080",
+        "nid": "0603804805",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "03-05-2022 10:21:55"
     },
     {
         "no": 436,
-        "license_number": "JKY92941",
-        "camera": "DHA8",
-        "timestamp": "25-07-2022 10:36:27"
+        "license_number": "PQN66932",
+        "nid": "8537478663",
+        "license_validity": false,
+        "camera": "DHA3",
+        "timestamp": "22-02-2022 13:21:59"
     },
     {
         "no": 437,
-        "license_number": "EHD54719",
-        "camera": "DHA7",
-        "timestamp": "15-08-2022 21:26:17"
+        "license_number": "BMB31220",
+        "nid": "9456194086",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "11-05-2022 07:54:00"
     },
     {
         "no": 438,
-        "license_number": "PIX62658",
-        "camera": "DHA8",
-        "timestamp": "20-04-2022 22:53:33"
+        "license_number": "YFY05453",
+        "nid": "6341292884",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "22-09-2022 01:22:39"
     },
     {
         "no": 439,
-        "license_number": "RID55614",
-        "camera": "DHA8",
-        "timestamp": "04-06-2022 23:31:07"
+        "license_number": "ESQ90186",
+        "nid": "8003860264",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "12-06-2022 23:00:20"
     },
     {
         "no": 440,
-        "license_number": "UDQ67588",
-        "camera": "DHA6",
-        "timestamp": "22-02-2022 07:23:59"
+        "license_number": "QZN15139",
+        "nid": "7422041802",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "28-05-2022 22:29:59"
     },
     {
         "no": 441,
-        "license_number": "SRI71606",
-        "camera": "DHA7",
-        "timestamp": "27-07-2022 21:39:52"
+        "license_number": "MTM71695",
+        "nid": "0055622287",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "06-09-2022 07:49:46"
     },
     {
         "no": 442,
-        "license_number": "FMG29363",
-        "camera": "DHA7",
-        "timestamp": "04-02-2022 03:59:21"
+        "license_number": "DSU15151",
+        "nid": "9131227251",
+        "license_validity": false,
+        "camera": "DHA2",
+        "timestamp": "19-07-2022 11:58:29"
     },
     {
         "no": 443,
-        "license_number": "ECC04590",
-        "camera": "DHA9",
-        "timestamp": "10-05-2022 12:05:30"
+        "license_number": "UAT48028",
+        "nid": "2424836740",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "16-02-2022 13:27:53"
     },
     {
         "no": 444,
-        "license_number": "YMA19201",
-        "camera": "DHA4",
-        "timestamp": "22-02-2022 06:37:10"
+        "license_number": "JAR19831",
+        "nid": "2617224882",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "05-07-2022 23:15:49"
     },
     {
         "no": 445,
-        "license_number": "MFS61173",
-        "camera": "DHA0",
-        "timestamp": "05-01-2022 23:46:20"
+        "license_number": "IER22274",
+        "nid": "5164230941",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "01-03-2022 20:09:33"
     },
     {
         "no": 446,
-        "license_number": "MQJ24285",
-        "camera": "DHA4",
-        "timestamp": "20-02-2022 15:34:19"
+        "license_number": "XKN67598",
+        "nid": "3730744015",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "04-09-2022 01:46:45"
     },
     {
         "no": 447,
-        "license_number": "AIU22975",
-        "camera": "DHA3",
-        "timestamp": "17-07-2022 20:20:49"
+        "license_number": "KGH84992",
+        "nid": "2535733703",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "15-05-2022 20:31:53"
     },
     {
         "no": 448,
-        "license_number": "JHJ51038",
-        "camera": "DHA0",
-        "timestamp": "30-04-2022 14:32:07"
+        "license_number": "BUR81760",
+        "nid": "4399818351",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "14-09-2022 02:10:36"
     },
     {
         "no": 449,
-        "license_number": "BPZ26610",
-        "camera": "DHA1",
-        "timestamp": "02-04-2022 12:02:40"
+        "license_number": "WOL28995",
+        "nid": "5700654781",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "01-09-2022 19:43:47"
     },
     {
         "no": 450,
-        "license_number": "VQI25693",
-        "camera": "DHA3",
-        "timestamp": "17-04-2022 03:29:22"
+        "license_number": "HRK33713",
+        "nid": "9642020378",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "26-04-2022 23:16:37"
     },
     {
         "no": 451,
-        "license_number": "IDO96691",
+        "license_number": "RYH77086",
+        "nid": "3187475126",
+        "license_validity": true,
         "camera": "DHA2",
-        "timestamp": "20-03-2022 09:34:05"
+        "timestamp": "22-06-2022 21:53:11"
     },
     {
         "no": 452,
-        "license_number": "HJM86190",
-        "camera": "DHA3",
-        "timestamp": "15-05-2022 14:19:47"
+        "license_number": "STK28097",
+        "nid": "1024286019",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "13-07-2022 11:59:22"
     },
     {
         "no": 453,
-        "license_number": "VVW74752",
-        "camera": "DHA5",
-        "timestamp": "23-04-2022 11:37:35"
+        "license_number": "YRV00246",
+        "nid": "2907899768",
+        "license_validity": false,
+        "camera": "DHA0",
+        "timestamp": "21-01-2022 01:12:12"
     },
     {
         "no": 454,
-        "license_number": "UQA61431",
-        "camera": "DHA6",
-        "timestamp": "19-03-2022 04:48:33"
+        "license_number": "SUQ54032",
+        "nid": "3636943658",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "05-07-2022 18:07:59"
     },
     {
         "no": 455,
-        "license_number": "BGL09883",
-        "camera": "DHA8",
-        "timestamp": "08-07-2022 19:24:43"
+        "license_number": "UOD19751",
+        "nid": "3826656971",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "01-09-2022 11:57:13"
     },
     {
         "no": 456,
-        "license_number": "ZYE24580",
-        "camera": "DHA0",
-        "timestamp": "24-01-2022 19:31:54"
+        "license_number": "CCX25956",
+        "nid": "7040486010",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "26-03-2022 16:04:00"
     },
     {
         "no": 457,
-        "license_number": "KRV07277",
-        "camera": "DHA8",
-        "timestamp": "11-07-2022 05:25:32"
+        "license_number": "NQV63000",
+        "nid": "8231448017",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "29-01-2022 21:27:25"
     },
     {
         "no": 458,
-        "license_number": "CLL65774",
-        "camera": "DHA6",
-        "timestamp": "29-07-2022 15:25:23"
+        "license_number": "QWD02421",
+        "nid": "3200339818",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "15-03-2022 08:24:56"
     },
     {
         "no": 459,
-        "license_number": "OOJ29919",
-        "camera": "DHA2",
-        "timestamp": "13-04-2022 14:37:17"
+        "license_number": "BAA83324",
+        "nid": "6015532122",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "21-09-2022 20:26:41"
     },
     {
         "no": 460,
-        "license_number": "ZCA73354",
-        "camera": "DHA3",
-        "timestamp": "12-09-2022 00:50:13"
+        "license_number": "MTD42844",
+        "nid": "0863284187",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "29-05-2022 09:46:36"
     },
     {
         "no": 461,
-        "license_number": "CMU54610",
-        "camera": "DHA2",
-        "timestamp": "17-09-2022 00:50:58"
+        "license_number": "CFU12485",
+        "nid": "9179586109",
+        "license_validity": false,
+        "camera": "DHA7",
+        "timestamp": "06-06-2022 10:43:36"
     },
     {
         "no": 462,
-        "license_number": "SDB60221",
-        "camera": "DHA3",
-        "timestamp": "11-05-2022 04:23:50"
+        "license_number": "WBJ25508",
+        "nid": "3860042796",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "23-02-2022 12:39:55"
     },
     {
         "no": 463,
-        "license_number": "MLM29051",
-        "camera": "DHA1",
-        "timestamp": "05-05-2022 15:19:41"
+        "license_number": "KZY97538",
+        "nid": "5024102679",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "27-03-2022 17:34:06"
     },
     {
         "no": 464,
-        "license_number": "MRM83657",
+        "license_number": "UFU03555",
+        "nid": "9984631418",
+        "license_validity": true,
         "camera": "DHA2",
-        "timestamp": "29-04-2022 20:18:32"
+        "timestamp": "09-02-2022 06:55:10"
     },
     {
         "no": 465,
-        "license_number": "WIO02180",
-        "camera": "DHA6",
-        "timestamp": "10-01-2022 01:51:57"
+        "license_number": "VNS71865",
+        "nid": "0551646584",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "30-04-2022 15:39:49"
     },
     {
         "no": 466,
-        "license_number": "XPI93327",
-        "camera": "DHA0",
-        "timestamp": "22-04-2022 01:58:58"
+        "license_number": "SJX68434",
+        "nid": "5888805519",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "02-04-2022 00:53:38"
     },
     {
         "no": 467,
-        "license_number": "NNH58997",
-        "camera": "DHA7",
-        "timestamp": "04-04-2022 09:20:05"
+        "license_number": "CLE57969",
+        "nid": "6490620916",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "23-04-2022 14:20:22"
     },
     {
         "no": 468,
-        "license_number": "VIB52690",
-        "camera": "DHA2",
-        "timestamp": "03-02-2022 14:07:08"
+        "license_number": "NNK33714",
+        "nid": "2057190576",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "03-03-2022 11:57:11"
     },
     {
         "no": 469,
-        "license_number": "QJK59601",
+        "license_number": "XEO28054",
+        "nid": "5379265256",
+        "license_validity": true,
         "camera": "DHA1",
-        "timestamp": "08-06-2022 04:58:03"
+        "timestamp": "10-01-2022 01:10:48"
     },
     {
         "no": 470,
-        "license_number": "SGC76610",
-        "camera": "DHA6",
-        "timestamp": "10-02-2022 06:57:29"
+        "license_number": "VRR13003",
+        "nid": "3013755331",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "01-07-2022 14:58:57"
     },
     {
         "no": 471,
-        "license_number": "AJQ12508",
-        "camera": "DHA2",
-        "timestamp": "16-07-2022 18:28:55"
+        "license_number": "MYP68136",
+        "nid": "7407285090",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "10-06-2022 10:58:58"
     },
     {
         "no": 472,
-        "license_number": "SPW07865",
-        "camera": "DHA5",
-        "timestamp": "03-09-2022 00:07:04"
+        "license_number": "APG59340",
+        "nid": "1319190655",
+        "license_validity": true,
+        "camera": "DHA8",
+        "timestamp": "12-04-2022 08:47:59"
     },
     {
         "no": 473,
-        "license_number": "QJX70162",
+        "license_number": "PUM59707",
+        "nid": "4685780289",
+        "license_validity": true,
         "camera": "DHA1",
-        "timestamp": "21-04-2022 17:44:03"
+        "timestamp": "19-05-2022 15:52:59"
     },
     {
         "no": 474,
-        "license_number": "DER95726",
-        "camera": "DHA6",
-        "timestamp": "30-06-2022 08:37:28"
+        "license_number": "ELZ18503",
+        "nid": "3265943207",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "19-02-2022 05:02:34"
     },
     {
         "no": 475,
-        "license_number": "CWW98897",
-        "camera": "DHA7",
-        "timestamp": "23-06-2022 18:17:50"
+        "license_number": "LDE36867",
+        "nid": "5499639535",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "14-01-2022 09:25:55"
     },
     {
         "no": 476,
-        "license_number": "QDI82134",
-        "camera": "DHA5",
-        "timestamp": "18-05-2022 14:49:08"
+        "license_number": "GAB63955",
+        "nid": "3524169062",
+        "license_validity": false,
+        "camera": "DHA8",
+        "timestamp": "31-03-2022 09:33:20"
     },
     {
         "no": 477,
-        "license_number": "PTF85131",
-        "camera": "DHA3",
-        "timestamp": "27-05-2022 06:08:26"
+        "license_number": "ZJO27869",
+        "nid": "7803572794",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "12-02-2022 18:05:37"
     },
     {
         "no": 478,
-        "license_number": "EBR05607",
-        "camera": "DHA5",
-        "timestamp": "03-01-2022 01:04:21"
+        "license_number": "BNO31201",
+        "nid": "4204290974",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "09-06-2022 22:40:22"
     },
     {
         "no": 479,
-        "license_number": "BZA60948",
-        "camera": "DHA5",
-        "timestamp": "22-02-2022 14:35:50"
+        "license_number": "IJU97951",
+        "nid": "9522672009",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "22-01-2022 08:05:33"
     },
     {
         "no": 480,
-        "license_number": "KLS69919",
-        "camera": "DHA5",
-        "timestamp": "02-04-2022 22:06:21"
+        "license_number": "PQA48716",
+        "nid": "4868304714",
+        "license_validity": false,
+        "camera": "DHA9",
+        "timestamp": "19-08-2022 18:53:24"
     },
     {
         "no": 481,
-        "license_number": "EYN71640",
-        "camera": "DHA6",
-        "timestamp": "18-06-2022 21:25:06"
+        "license_number": "TIG30455",
+        "nid": "4444727917",
+        "license_validity": false,
+        "camera": "DHA1",
+        "timestamp": "06-04-2022 08:03:18"
     },
     {
         "no": 482,
-        "license_number": "FYB41345",
-        "camera": "DHA9",
-        "timestamp": "07-04-2022 20:23:22"
+        "license_number": "FWF26670",
+        "nid": "4513613894",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "14-07-2022 08:58:51"
     },
     {
         "no": 483,
-        "license_number": "PYD85097",
-        "camera": "DHA0",
-        "timestamp": "25-06-2022 23:19:46"
+        "license_number": "SYZ58886",
+        "nid": "5826647834",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "09-06-2022 11:51:15"
     },
     {
         "no": 484,
-        "license_number": "OLK78279",
-        "camera": "DHA7",
-        "timestamp": "30-08-2022 23:09:02"
+        "license_number": "FSM29129",
+        "nid": "3899000466",
+        "license_validity": true,
+        "camera": "DHA2",
+        "timestamp": "13-01-2022 13:51:11"
     },
     {
         "no": 485,
-        "license_number": "IQE47296",
-        "camera": "DHA8",
-        "timestamp": "29-05-2022 23:06:45"
+        "license_number": "QNP85960",
+        "nid": "6239309266",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "03-09-2022 13:47:17"
     },
     {
         "no": 486,
-        "license_number": "ROQ36352",
-        "camera": "DHA2",
-        "timestamp": "22-01-2022 07:08:20"
+        "license_number": "KWL78780",
+        "nid": "3485235818",
+        "license_validity": true,
+        "camera": "DHA5",
+        "timestamp": "20-09-2022 05:14:40"
     },
     {
         "no": 487,
-        "license_number": "NER32734",
-        "camera": "DHA2",
-        "timestamp": "13-06-2022 10:29:40"
+        "license_number": "SJX54826",
+        "nid": "4432392947",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "09-01-2022 23:10:04"
     },
     {
         "no": 488,
-        "license_number": "IBN52168",
-        "camera": "DHA9",
-        "timestamp": "22-02-2022 17:18:10"
+        "license_number": "PQO25531",
+        "nid": "1484527873",
+        "license_validity": true,
+        "camera": "DHA0",
+        "timestamp": "22-02-2022 13:06:34"
     },
     {
         "no": 489,
-        "license_number": "TDZ12110",
-        "camera": "DHA5",
-        "timestamp": "03-08-2022 05:18:22"
+        "license_number": "CWS74970",
+        "nid": "0544987029",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "15-09-2022 19:53:37"
     },
     {
         "no": 490,
-        "license_number": "GWC98182",
-        "camera": "DHA1",
-        "timestamp": "04-09-2022 14:14:34"
+        "license_number": "ENG74241",
+        "nid": "9750643765",
+        "license_validity": true,
+        "camera": "DHA9",
+        "timestamp": "30-06-2022 00:58:03"
     },
     {
         "no": 491,
-        "license_number": "HTR61553",
-        "camera": "DHA4",
-        "timestamp": "09-02-2022 12:26:58"
+        "license_number": "UEJ54001",
+        "nid": "0070198711",
+        "license_validity": true,
+        "camera": "DHA3",
+        "timestamp": "25-03-2022 04:57:54"
     },
     {
         "no": 492,
-        "license_number": "NYK76562",
-        "camera": "DHA6",
-        "timestamp": "06-08-2022 02:56:24"
+        "license_number": "FKW74034",
+        "nid": "4445275117",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "22-03-2022 15:54:43"
     },
     {
         "no": 493,
-        "license_number": "VAD74841",
-        "camera": "DHA3",
-        "timestamp": "18-01-2022 07:10:53"
+        "license_number": "JTY81533",
+        "nid": "9104258958",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "28-07-2022 12:38:28"
     },
     {
         "no": 494,
-        "license_number": "CPQ70525",
-        "camera": "DHA1",
-        "timestamp": "07-07-2022 09:34:02"
+        "license_number": "TLP86920",
+        "nid": "4420469291",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "30-03-2022 17:15:34"
     },
     {
         "no": 495,
-        "license_number": "MRT88118",
-        "camera": "DHA6",
-        "timestamp": "13-09-2022 01:03:56"
+        "license_number": "KUF54212",
+        "nid": "3546234788",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "24-05-2022 08:03:01"
     },
     {
         "no": 496,
-        "license_number": "YDP78583",
-        "camera": "DHA4",
-        "timestamp": "28-05-2022 08:43:48"
+        "license_number": "SVN95071",
+        "nid": "7926997133",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "12-08-2022 06:57:43"
     },
     {
         "no": 497,
-        "license_number": "GNC61593",
-        "camera": "DHA7",
-        "timestamp": "06-04-2022 19:53:05"
+        "license_number": "PCN58162",
+        "nid": "4593576831",
+        "license_validity": true,
+        "camera": "DHA6",
+        "timestamp": "30-06-2022 17:46:13"
     },
     {
         "no": 498,
-        "license_number": "MSI71134",
-        "camera": "DHA2",
-        "timestamp": "20-02-2022 12:06:48"
+        "license_number": "ZFU56071",
+        "nid": "7198691624",
+        "license_validity": true,
+        "camera": "DHA1",
+        "timestamp": "28-01-2022 13:58:53"
     },
     {
         "no": 499,
-        "license_number": "ZHK18775",
-        "camera": "DHA2",
-        "timestamp": "16-07-2022 11:04:36"
+        "license_number": "TMK86132",
+        "nid": "5873300214",
+        "license_validity": true,
+        "camera": "DHA7",
+        "timestamp": "12-03-2022 04:03:33"
     },
     {
         "no": 500,
-        "license_number": "YWH07139",
-        "camera": "DHA9",
-        "timestamp": "25-06-2022 07:15:29"
+        "license_number": "WXP23347",
+        "nid": "9287749635",
+        "license_validity": true,
+        "camera": "DHA4",
+        "timestamp": "23-04-2022 09:41:26"
     }
 ]

@@ -17,15 +17,19 @@ class LatestTable(tk.Tk):
         style.theme_use('clam')
 
         # Add a Treeview widget
-        tree = ttk.Treeview(self, column=("Serial", "License Number", "Cam", "Timestamp"), show='headings', height=15)
+        tree = ttk.Treeview(self, column=("Serial", "License Number", "Owner's NID", "License Validity", "Cam", "Timestamp"), show='headings', height=15)
         tree.column("# 1", anchor="center")
         tree.heading("# 1", text="Serial")
         tree.column("# 2", anchor="center")
         tree.heading("# 2", text="License Number")
         tree.column("# 3", anchor="center")
-        tree.heading("# 3", text="Cam")
+        tree.heading("# 3", text="Owner's NID")
         tree.column("# 4", anchor="center")
-        tree.heading("# 4", text="Timestamp")
+        tree.heading("# 4", text="License Validity")
+        tree.column("# 5", anchor="center")
+        tree.heading("# 5", text="Cam")
+        tree.column("# 6", anchor="center")
+        tree.heading("# 6", text="Timestamp")
 
         with open('json_data.json', 'r') as openfile:
             records = json.load(openfile)
@@ -33,7 +37,7 @@ class LatestTable(tk.Tk):
         records = records[-10:][::-1]
 
         for record in records:
-            tree.insert('', 'end', text="1", values=(record['no'], record['license_number'], record['camera'], record['timestamp']))
+            tree.insert('', 'end', text="1", values=(record['no'], record['license_number'], record['nid'], record['license_validity'], record['camera'], record['timestamp']))
 
         tree.pack()
 

@@ -23,6 +23,15 @@ def get_cam():
     return result
     # print(result)
 
+def nid():
+    digits = string.digits
+    result = ''.join(random.choice(digits) for i in range(10))
+    return result
+
+def get_license_validity():
+    value = [True, True, True, True, True, True, True, False]
+    return random.choice(value)
+
 def generate_fake_data():
     records = []
 
@@ -30,12 +39,16 @@ def generate_fake_data():
         license_number_data = license_number()
         timestamp_data = timestamp()
         cam_number = get_cam()
+        nid_number = nid()
+        license_validity = get_license_validity()
 
         record = {
             "no": _+1,
             "license_number": license_number_data,
+            "nid": nid_number,
+            "license_validity": license_validity,
             "camera": cam_number,
-            "timestamp": timestamp_data
+            "timestamp": timestamp_data,
         }
 
         records.append(record)
