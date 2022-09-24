@@ -23,7 +23,7 @@ label_texts = """1. Click Start Detection To Run The System
 
 # Labels
 ttk.Label(parent, text="Help",font=("Arial", 18)).pack(pady=25)
-ttk.Label(parent, text=label_texts,font=("Arial", 12)).pack(pady=5)
+ttk.Label(parent, text=label_texts,font=("Arial", 12)).pack(padx=(50,0),pady=5)
 
 # Buttons
 tk.Button(parent, text="Back",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(pady=15)
