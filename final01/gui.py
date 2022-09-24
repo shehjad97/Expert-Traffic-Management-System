@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import ttk
 
 # Import tk functions
-from components import table, yearly_chart, monthly_chart, pie_chart, anpr
+from components import table, yearly_chart, monthly_chart, pie_chart, help, anpr
 
 # Root Initialization
 root = tk.Tk()
@@ -21,7 +21,7 @@ tk.Button(parent, text="Vehicle Data",font="sans 10 bold",bg="#ddd",width=12, co
 tk.Button(parent, text="Yearly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=yearly_chart).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Monthly Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=monthly_chart).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Cam Data Chart",font="sans 10 bold",bg="#ddd",width=12, command=pie_chart).pack(ipadx=21,pady=5)
-tk.Button(parent, text="Help",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
+tk.Button(parent, text="Help",font="sans 10 bold",bg="#ddd",width=12, command=help).pack(ipadx=21,pady=5)
 tk.Button(parent, text="Exit",font="sans 10 bold",bg="#ddd",width=12, command=root.destroy).pack(ipadx=21,pady=5)
 
 parent.pack(expand=1)
