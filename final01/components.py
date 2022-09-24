@@ -1,5 +1,7 @@
 from table import Table
-from chart import Chart
+from yearly_chart import YearlyChart
+from monthly_chart import MonthlyChart
+from pie_chart import PieChart
 # from anpr import webcam
 
 def anpr():
@@ -9,5 +11,11 @@ def anpr():
 def table():
     Table()
 
-def chart():
-    Chart()
+def yearly_chart():
+    YearlyChart()
+
+def monthly_chart():
+    MonthlyChart()
+
+def pie_chart():
+    PieChart()

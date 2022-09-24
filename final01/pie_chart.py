@@ -3,7 +3,7 @@ import matplotlib.patches
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import tkinter as tk
 
-class App(tk.Tk):
+class PieChart(tk.Tk):
     def __init__(self):
         super().__init__()
 
@@ -23,5 +23,5 @@ class App(tk.Tk):
         canvas.draw()
 
 if __name__ == '__main__':
-    app = App()
+    app = PieChart()
     app.mainloop()

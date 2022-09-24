@@ -26,7 +26,7 @@ def get_month_count(month_str):
     else:
         return months_counts.get(month_str)
 
-class Chart(tk.Tk):
+class MonthlyChart(tk.Tk):
     def __init__(self):
         super().__init__()
 
@@ -72,5 +72,5 @@ class Chart(tk.Tk):
 
 
 if __name__ == '__main__':
-    app = Chart()
+    app = MonthlyChart()
     app.mainloop()
