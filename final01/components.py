@@ -4,6 +4,7 @@ from yearly_chart import YearlyChart
 from monthly_chart import MonthlyChart
 from pie_chart import PieChart
 from help import Help
+from violations import Violations
 # from anpr import webcam
 
 def anpr():
@@ -27,3 +28,6 @@ def pie_chart():
 
 def help():
     Help()
+
+def violations():
+    Violations()
