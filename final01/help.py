@@ -14,7 +14,7 @@ class Help(tk.Tk):
 
         parent = ttk.Frame(self)
 
-        label_texts = """1. Click Start Detection To Run The System
+        label_texts = """        1. Click Start Detection To Run The System
 
         2. Click Vehicle Data To Show the Table of Detected Vehicle
 
