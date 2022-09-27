@@ -8,6 +8,8 @@ import matplotlib
 import pandas as pd
 import json
 
+from utils import yearly_data
+
 matplotlib.use('TkAgg')
 
 def get_month_count(month_str):
@@ -33,14 +35,15 @@ class YearlyChart(tk.Tk):
         self.title('Yearly Data Chart')
 
         # prepare data
-        data = {
-            '2016': 932147,
-            '2017': 1042353,
-            '2018': 1182063,
-            '2019': 1353375,
-            '2020': 1511782,
-            '2021': 1630036,
-        }
+        # data = {
+        #     '2016': 932147,
+        #     '2017': 1042353,
+        #     '2018': 1182063,
+        #     '2019': 1353375,
+        #     '2020': 1511782,
+        #     '2021': 1630036,
+        # }
+        data = yearly_data()
         languages = data.keys()
         popularity = data.values()
 

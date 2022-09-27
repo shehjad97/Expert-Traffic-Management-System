@@ -25,3 +25,25 @@ def cam_data():
         returned_data.append(each_cam_data)
 
     return returned_data
+
+def yearly_data():
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+
+    years = []
+
+    for record in records:
+        year = record['timestamp'][6:10]
+        years.append(year)
+
+    sorted_years = sorted(list(set(years)))
+
+    returned_data = {}
+
+    years_counts = pd.Series(years).value_counts()
+
+    for year in sorted_years:
+        year_count = years_counts.get(year)
+        returned_data[year] = year_count
+
+    return returned_data

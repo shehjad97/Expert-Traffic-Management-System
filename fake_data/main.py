@@ -12,7 +12,7 @@ def license_number():
     return result
 
 def timestamp():
-    timestamp = randomtimestamp(start_year=2022, end_year=None, text=True)
+    timestamp = randomtimestamp(start_year=2016, end_year=None, text=True)
     return timestamp
 
 def get_cam():
@@ -35,7 +35,7 @@ def get_license_validity():
 def generate_fake_data():
     records = []
 
-    for _ in range(500):
+    for _ in range(5000):
         license_number_data = license_number()
         timestamp_data = timestamp()
         cam_number = get_cam()
