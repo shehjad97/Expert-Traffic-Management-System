@@ -234,7 +234,8 @@ def webcam():
             text, region = ocr_it(image_np_with_detections, detections, detection_threshold, region_threshold)
             # save_results(text, region, 'realtimeresults.csv', 'Detection_Images')
             detect_violation(text[0])
-            save_json(text[0])
+            # save_json(text[0])
+            eval(mainlist, text[0])
         except:
             pass
 
@@ -243,4 +244,5 @@ def webcam():
         if cv2.waitKey(10) & 0xFF == ord('q'):
             cap.release()
             cv2.destroyAllWindows()
+            eval_exit(mainlist)
             break
