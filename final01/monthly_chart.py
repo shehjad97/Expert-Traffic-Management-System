@@ -14,9 +14,21 @@ def get_month_count(month_str):
     with open('json_data.json', 'r') as openfile:
         records = json.load(openfile)
     
+    years = []
     months = []
+    new_records = []
 
     for record in records:
+        year = record['timestamp'][6:10]
+        years.append(year)
+
+    sorted_years = sorted(list(set(years)))
+
+    for record in records:
+        if(record['timestamp'][6:10] == sorted_years[-1]):
+            new_records.append(record)
+
+    for record in new_records:
         month = record['timestamp'][3:5]
         months.append(month)
 
