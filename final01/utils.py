@@ -1,5 +1,11 @@
 import pandas as pd
 import json
+from datetime import datetime
+
+def generate_timestamp():
+    dateTimeObj = datetime.now()
+    timestampStr = dateTimeObj.strftime("%d-%m-%Y %H:%M:%S")
+    return timestampStr
 
 def cam_data():
     with open('json_data.json', 'r') as openfile:

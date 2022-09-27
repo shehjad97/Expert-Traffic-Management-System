@@ -97,10 +97,7 @@ import uuid
 import json
 from datetime import datetime
 
-def generate_timestamp():
-    dateTimeObj = datetime.now()
-    timestampStr = dateTimeObj.strftime("%d-%m-%Y %H:%M:%S")
-    return timestampStr
+from utils import generate_timestamp
 
 def save_json(license_number_data):
     with open('json_data.json', 'r') as openfile:
@@ -127,6 +124,81 @@ def save_json(license_number_data):
 cap = cv2.VideoCapture(0)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+
+from difflib import SequenceMatcher
+from collections import Counter
+
+def similar(a, b):
+    return SequenceMatcher(None, a, b).ratio()
+
+def common(list):
+    data = Counter(list)
+    return data.most_common(1)[0][0]
+
+mainlist = []
+timestamps = []
+
+def eval(mainlist, input):
+    if(len(mainlist) == 0):
+        mainlist.append(input)
+        return mainlist
+
+    if(type(mainlist[-1]) == list and similar(mainlist[-1][-1], input) > 0.5):
+        mainlist[-1].append(input)
+        return mainlist
+
+    if(similar(mainlist[-1], input) < 0.5):
+        if(type(mainlist[-1]) == list):
+            last_element = mainlist.pop()
+            mainlist.append(common(last_element))
+            timestamps.append(generate_timestamp())
+        mainlist.append(input)
+        return mainlist
+
+    if(type(mainlist[-1]) != list and similar(mainlist[-1], input) > 0.5):
+        last_element = mainlist.pop()
+        innerlist = []
+        innerlist.append(last_element)
+        innerlist.append(input)
+        mainlist.append(innerlist)
+        return mainlist
+
+def eval_exit(mainlist):
+    if(type(mainlist[-1]) == list):
+        last_element = mainlist.pop()
+        mainlist.append(common(last_element))
+        timestamps.append(generate_timestamp())
+        save_data(mainlist, timestamps)
+        return mainlist
+    else:
+        save_data(mainlist, timestamps)
+        return mainlist
+
+def save_data(mainlist, timestamps):
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+    
+    # timestamp = generate_timestamp()
+
+    serial = records[-1]['no']
+    
+    for each in range(len(mainlist)):
+        serial+=1
+        record = {
+        "no": serial,
+        "license_number": mainlist[each],
+        "nid": "-",
+        "license_validity": True,
+        "camera": "DHA1",
+        "timestamp": timestamps[each]
+        }
+
+        records.append(record)
+
+    json_string = json.dumps(records, indent=4)
+
+    with open('json_data.json', 'w') as outfile:
+        outfile.write(json_string)
 
 def webcam():
     while cap.isOpened(): 
