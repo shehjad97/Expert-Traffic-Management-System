@@ -134,4 +134,14 @@ def detect_violation(number_plate):
             with open('violations.json', 'w') as outfile:
                 outfile.write(json_string)
 
-detect_violation("UCX55337")
+def check_validity(number_plate):
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+    
+    for record in records:
+        if(record['license_number'] == number_plate and record['license_validity'] == False):
+            return False
+        else:
+            return True
+
+print(check_validity('XTU57752'))
