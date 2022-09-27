@@ -112,7 +112,26 @@ def yearly_data():
 
     return returned_data
 
-with open('json_data.json', 'r') as openfile:
+def detect_violation(number_plate):
+    with open('json_data.json', 'r') as openfile:
         records = json.load(openfile)
+    
+    with open('violations.json', 'r') as openfile:
+        violations = json.load(openfile)
 
-print(records[-1]['no'])
+    for record in records:
+        if(record['license_number'] == number_plate and record['license_validity'] == False):
+            violation = {
+                "no": violations[-1]['no']+1,
+                "license": number_plate,
+                "violation": "Expired license"
+            }
+
+            violations.append(violation)
+
+            json_string = json.dumps(violations, indent=4)
+
+            with open('violations.json', 'w') as outfile:
+                outfile.write(json_string)
+
+detect_violation("UCX55337")

@@ -5,6 +5,8 @@ from object_detection.utils import visualization_utils as viz_utils
 from object_detection.builders import model_builder
 from object_detection.utils import config_util
 
+from utils import detect_violation
+
 
 # Prevent GPU complete consumption
 gpus= tf.config.list_physical_devices('GPU')
@@ -159,6 +161,7 @@ def webcam():
         try: 
             text, region = ocr_it(image_np_with_detections, detections, detection_threshold, region_threshold)
             # save_results(text, region, 'realtimeresults.csv', 'Detection_Images')
+            detect_violation(text[0])
             save_json(text[0])
         except:
             pass
