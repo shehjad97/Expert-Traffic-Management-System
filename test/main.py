@@ -112,5 +112,7 @@ def yearly_data():
 
     return returned_data
 
+with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
 
-print(yearly_data())
+print(records[-1]['no'])

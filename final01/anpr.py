@@ -107,7 +107,11 @@ def save_json(license_number_data):
     timestamp = generate_timestamp()
     
     record = {
+        "no": records[-1]['no']+1,
         "license_number": license_number_data,
+        "nid": "-",
+        "license_validity": True,
+        "camera": "DHA1",
         "timestamp": timestamp
     }
 
