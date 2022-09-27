@@ -174,6 +174,16 @@ def eval_exit(mainlist):
         save_data(mainlist, timestamps)
         return mainlist
 
+def check_validity(number_plate):
+    with open('json_data.json', 'r') as openfile:
+        records = json.load(openfile)
+    
+    for record in records:
+        if(record['license_number'] == number_plate and record['license_validity'] == False):
+            return False
+        else:
+            return True
+
 def save_data(mainlist, timestamps):
     with open('json_data.json', 'r') as openfile:
         records = json.load(openfile)
@@ -188,7 +198,7 @@ def save_data(mainlist, timestamps):
         "no": serial,
         "license_number": mainlist[each],
         "nid": "-",
-        "license_validity": True,
+        "license_validity": check_validity(mainlist[each]),
         "camera": "DHA1",
         "timestamp": timestamps[each]
         }

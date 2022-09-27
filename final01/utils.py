@@ -61,6 +61,10 @@ def detect_violation(number_plate):
     with open('violations.json', 'r') as openfile:
         violations = json.load(openfile)
 
+    for violation in violations:
+        if(violation['license'] == number_plate):
+            return None
+
     for record in records:
         if(record['license_number'] == number_plate and record['license_validity'] == False):
             violation = {
